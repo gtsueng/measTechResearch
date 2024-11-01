@@ -30,5 +30,9 @@
     "http://purl.obolibrary.org/obo/OBI_0000341": "http://purl.obolibrary.org/obo/MMO_0000496",
     "http://purl.obolibrary.org/obo/OBI_0600031": "http://purl.obolibrary.org/obo/MMO_0000458",
     "http://purl.obolibrary.org/obo/OBI_0001059": "http://purl.obolibrary.org/obo/MMO_0000075",
-    "http://purl.obolibrary.org/obo/OBI_0000912": "http://purl.obolibrary.org/obo/CHMO_0000159"
+    "http://www.bioassayontology.org/bao#BAO_0000404": "http://purl.obolibrary.org/obo/OBI_0000912",
+    "http://purl.obolibrary.org/obo/OBI_0001956": "http://purl.obolibrary.org/obo/MMO_0000680",
+    "http://purl.obolibrary.org/obo/OBI_0001954": "http://purl.obolibrary.org/obo/MMO_0000680",
+    "http://www.ebi.ac.uk/efo/EFO_0008896": "http://purl.obolibrary.org/obo/MMO_0000659",
+    "http://www.ebi.ac.uk/efo/EFO_0000748": "http://purl.obolibrary.org/obo/OBI_0001248"
 }

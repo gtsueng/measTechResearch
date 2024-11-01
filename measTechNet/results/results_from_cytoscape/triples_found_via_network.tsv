@@ -6,3 +6,6 @@ http://www.w3.org/2000/01/rdf-schema#subClassOf	subClassOf	http://purl.obolibrar
 http://www.w3.org/2000/01/rdf-schema#subClassOf	subClassOf	http://www.bioassayontology.org/bao#BAO_0040021	in vivo assay method	http://purl.obolibrary.org/obo/MMO_0000026	in vivo method
 http://www.w3.org/2000/01/rdf-schema#subClassOf	subClassOf	http://purl.obolibrary.org/obo/OBI_0002031	genotyping by SNP array assay	http://purl.obolibrary.org/obo/OBI_0001204	SNP microarray
 http://www.w3.org/2000/01/rdf-schema#subClassOf	subClassOf	http://purl.obolibrary.org/obo/CHMO_0000664	confocal Raman microscopy	http://purl.obolibrary.org/obo/MMO_0000685	confocal microscopy
+http://www.w3.org/2000/01/rdf-schema#subClassOf	subClassOf	http://purl.obolibrary.org/obo/CHMO_0000159	single crystal X-ray diffraction	http://purl.obolibrary.org/obo/OBI_0000912	X-ray crystallography 3D molecular structure determination assay
+http://www.w3.org/2000/01/rdf-schema#subClassOf	subClassOf	http://purl.obolibrary.org/obo/CHMO_0000158	powder X-ray diffraction	http://purl.obolibrary.org/obo/OBI_0000912	X-ray crystallography 3D molecular structure determination assay
+http://www.w3.org/2000/01/rdf-schema#subClassOf	subClassOf	http://purl.obolibrary.org/obo/OBI_0000912	X-ray crystallography 3D molecular structure determination assay	http://purl.obolibrary.org/obo/CHMO_0000156	X-ray diffraction
