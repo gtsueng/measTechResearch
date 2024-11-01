@@ -1,2 +1,6 @@
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
+measTechAnalysis/data/ontology_files/*
+measTechAnalysis/result/mappings/old/*
+measTechAnalysis/result/mappings/partials/*
+measTechNet/raw_files/*
