@@ -1,0 +1,21 @@
+id	name
+http://edamontology.org/topic_3448	Neutron diffraction
+http://edamontology.org/topic_3169	ChIP-seq
+http://uri.neuinfo.org/nif/nifstd/OBI_0000690	immunoprecipitation
+http://edamontology.org/topic_0133	Two-dimensional gel electrophoresis
+http://edamontology.org/topic_3177	DNA-Seq
+http://edamontology.org/topic_0221	Sequence annotation
+http://purl.obofoundry.org/obo/OBI_0400003	device
+http://edamontology.org/topic_3676	Exome sequencing
+http://edamontology.org/topic_4017	Cryogenic electron microscopy
+http://edamontology.org/topic_3170	RNA-Seq
+http://edamontology.org/topic_4028	Single-cell sequencing
+http://edamontology.org/topic_3452	Tomography
+http://edamontology.org/topic_3673	Whole genome sequencing
+http://edamontology.org/topic_3474	Machine learning
+http://edamontology.org/topic_2271	Structure database search
+http://edamontology.org/topic_3444	MRI
+http://edamontology.org/topic_4016	Electrocardiography
+http://purl.obolibrary.org/obo/OBI_0400002	device
+http://edamontology.org/topic_2230	Classification
+http://edamontology.org/topic_4014	Electroencephalography
