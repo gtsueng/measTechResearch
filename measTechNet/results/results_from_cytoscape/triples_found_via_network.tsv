@@ -1,0 +1,8 @@
+predicate_id	predicate	subject_id	subject	object_id	object
+http://www.w3.org/2000/01/rdf-schema#subClassOf	subClassOf	http://purl.obolibrary.org/obo/OBI_0400148	DNA microarray	http://www.bioassayontology.org/bao#BAO_0000504	nucleic acid array
+http://www.w3.org/2000/01/rdf-schema#subClassOf	subClassOf	http://purl.obolibrary.org/obo/OBI_2100209	SPEP protein electrophoresis venous blood albumin assay	http://purl.obolibrary.org/obo/MMO_0000100	gel electrophoresis
+http://www.w3.org/2000/01/rdf-schema#subClassOf	subClassOf	http://purl.obolibrary.org/obo/OBI_2100209	SPEP protein electrophoresis venous blood albumin assay	http://purl.obolibrary.org/obo/CHMO_0001024	capillary electrophoresis
+http://www.w3.org/2000/01/rdf-schema#subClassOf	subClassOf	http://purl.obolibrary.org/obo/OBI_0000182	NMR 3D molecular structure determination assay	http://purl.obolibrary.org/obo/CHMO_0001806	nuclear magnetic resonance method
+http://www.w3.org/2000/01/rdf-schema#subClassOf	subClassOf	http://www.bioassayontology.org/bao#BAO_0040021	in vivo assay method	http://purl.obolibrary.org/obo/MMO_0000026	in vivo method
+http://www.w3.org/2000/01/rdf-schema#subClassOf	subClassOf	http://purl.obolibrary.org/obo/OBI_0002031	genotyping by SNP array assay	http://purl.obolibrary.org/obo/OBI_0001204	SNP microarray
+http://www.w3.org/2000/01/rdf-schema#subClassOf	subClassOf	http://purl.obolibrary.org/obo/CHMO_0000664	confocal Raman microscopy	http://purl.obolibrary.org/obo/MMO_0000685	confocal microscopy
