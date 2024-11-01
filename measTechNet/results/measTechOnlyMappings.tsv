@@ -1,0 +1,572 @@
+	subject_id	predicate_id	object_id	subject	object	predicate
+256439	http://www.bioassayontology.org/bao#BAO_0002344	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/OBI_0200041	k means clustering	k-means clustering	sameAs
+256443	http://www.bioassayontology.org/bao#BAO_0002508	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/OBI_0000690	immunoprecipitation	immunoprecipitation	sameAs
+256446	http://www.bioassayontology.org/bao#BAO_0010048	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/OBI_0400147	Microarray	microarray	sameAs
+256449	http://www.bioassayontology.org/bao#BAO_0003011	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/OBI_0002963	KINOMEScan assay	KINOMEscan assay	sameAs
+256451	http://www.bioassayontology.org/bao#BAO_0002080	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/OBI_0000415	polymerase chain reaction	polymerase chain reaction	sameAs
+256452	http://www.bioassayontology.org/bao#BAO_0010028	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/OBI_0002958	SWATH MS protein profiling assay	SWATH-MS protein profiling assay	sameAs
+256453	http://www.bioassayontology.org/bao#BAO_0000248	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/OBI_0003369	assay kit	assay kit	sameAs
+256456	http://www.bioassayontology.org/bao#BAO_0010035	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/OBI_0000716	ChIP-seq assay	ChIP-seq assay	sameAs
+256463	http://www.bioassayontology.org/bao#BAO_0002338	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/OBI_0500016	fractional factorial design	fractional factorial design	sameAs
+256467	http://www.bioassayontology.org/bao#BAO_0010037	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/OBI_0000748	Bisulfite Sequencing assay	bisulfite sequencing assay	sameAs
+256468	http://www.bioassayontology.org/bao#BAO_0002089	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/OBI_0000552	reverse transcription PCR	reverse transcription PCR	sameAs
+256469	http://www.bioassayontology.org/bao#BAO_0002089	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/OBI_0000552	reverse transcription PCR	reverse transcribed polymerase chain reaction	sameAs
+256472	http://www.bioassayontology.org/bao#BAO_0003006	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/OBI_0002082	reporter gene assay	reporter gene assay	sameAs
+256475	http://www.bioassayontology.org/bao#BAO_0002428	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/OBI_0000910	radioimmunoassay	radio immuno assay	sameAs
+256480	http://www.bioassayontology.org/bao#BAO_0000415	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/OBI_0001986	immunohistochemistry	immunohistochemistry	sameAs
+256481	http://purl.obolibrary.org/obo/ERO_0001500	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/OBI_0003547	liquid chromatography 	liquid chromatography	sameAs
+256485	http://www.bioassayontology.org/bao#BAO_0002908	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/OBI_0002964	KiNativ assay	KiNativ assay	sameAs
+256486	http://www.bioassayontology.org/bao#BAO_0003009	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/OBI_0003583	cell viability assay	cell viability assay	sameAs
+256487	http://www.bioassayontology.org/bao#BAO_0002441	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/OBI_0001148	gene knockout	gene knock out	sameAs
+256498	http://www.bioassayontology.org/bao#BAO_0002989	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/OBI_0001146	binding assay	binding assay	sameAs
+256500	http://www.bioassayontology.org/bao#BAO_0002361	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/OBI_0200080	network analysis	network analysis	sameAs
+256501	http://www.bioassayontology.org/bao#BAO_0000134	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/OBI_0000661	ELISA	ELISA	sameAs
+256502	http://www.bioassayontology.org/bao#BAO_0000134	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/OBI_0000661	ELISA	enzyme-linked immunosorbent assay	sameAs
+256503	http://www.bioassayontology.org/bao#BAO_0002805	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/OBI_0000891	cell proliferation assay	cell proliferation assay	sameAs
+256509	http://www.bioassayontology.org/bao#BAO_0002433	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/OBI_0002625	gene knockdown	gene knockdown	sameAs
+256511	http://www.bioassayontology.org/bao#BAO_0002432	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/OBI_0001149	gene knock in	gene knock in	sameAs
+256514	http://www.bioassayontology.org/bao#BAO_0002430	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/OBI_0002029	serial analysis of gene expression	serial analysis of gene expression assay	sameAs
+256516	http://www.bioassayontology.org/bao#BAO_0000087	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/OBI_0302901	activation	obsolete_activation	sameAs
+256517	http://www.bioassayontology.org/bao#BAO_0002231	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/OBI_0002567	sequence alignment	sequence alignment	sameAs
+256518	http://purl.obolibrary.org/obo/NCIT_C16681	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/OBI_0600020	Histology	histological assay	sameAs
+256655	http://www.bioassayontology.org/bao#BAO_0003003	https://www.w3.org/2002/07/owl#sameAs	http://www.ebi.ac.uk/efo/EFO_0010935	cytokine secretion assay	cytokine secretion assay	sameAs
+256806	http://www.bioassayontology.org/bao#BAO_0002441	https://www.w3.org/2002/07/owl#sameAs	http://www.ebi.ac.uk/efo/EFO_0000506	gene knockout	gene knock out	sameAs
+256875	http://www.bioassayontology.org/bao#BAO_0000505	https://www.w3.org/2002/07/owl#sameAs	http://www.ebi.ac.uk/efo/EFO_0002702	protein array	protein array	sameAs
+256918	http://www.bioassayontology.org/bao#BAO_0002198	https://www.w3.org/2002/07/owl#sameAs	http://www.ebi.ac.uk/efo/EFO_0000395	delivery method	delivery method	sameAs
+257198	http://www.bioassayontology.org/bao#BAO_0000514	https://www.w3.org/2002/07/owl#sameAs	http://www.ebi.ac.uk/efo/EFO_0002698	array	array	sameAs
+257205	http://www.bioassayontology.org/bao#BAO_0002432	https://www.w3.org/2002/07/owl#sameAs	http://www.ebi.ac.uk/efo/EFO_0004963	gene knock in	gene knock in	sameAs
+257268	http://www.bioassayontology.org/bao#BAO_0010253	https://www.w3.org/2002/07/owl#sameAs	http://www.ebi.ac.uk/efo/EFO_0030037	T-cell activation assay	T cell activation assay	sameAs
+257578	http://www.bioassayontology.org/bao#BAO_0010023	https://www.w3.org/2002/07/owl#sameAs	http://www.ebi.ac.uk/efo/EFO_0004176	chip	ChIP	sameAs
+258362	http://www.bioassayontology.org/bao#BAO_0000054	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/NCIT_C18117	surface plasmon resonance		sameAs
+258373	http://www.bioassayontology.org/bao#BAO_0010048	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/NCIT_C44282	Microarray		sameAs
+258554	http://www.bioassayontology.org/bao#BAO_0002173	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/NCIT_C53319	mean		sameAs
+258756	http://www.bioassayontology.org/bao#BAO_0000050	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/NCIT_C62655	bioluminescence		sameAs
+259302	http://www.bioassayontology.org/bao#BAO_0002174	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/NCIT_C28007	median		sameAs
+259639	http://www.bioassayontology.org/bao#BAO_0002463	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/MMO_0000426	Bradford protein assay	Bradford protein assay	sameAs
+259640	http://www.bioassayontology.org/bao#BAO_0002428	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/MMO_0000073	radioimmunoassay	radioimmunoassay	sameAs
+259641	http://www.bioassayontology.org/bao#BAO_0000453	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/MMO_0000685	confocal microscopy	confocal microscopy	sameAs
+259642	http://www.bioassayontology.org/bao#BAO_0000415	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/MMO_0000498	immunohistochemistry	immunohistochemistry	sameAs
+259643	http://www.bioassayontology.org/bao#BAO_0002508	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/MMO_0000682	immunoprecipitation	immunoprecipitation	sameAs
+259644	http://www.bioassayontology.org/bao#BAO_0000129	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/MMO_0000098	immunoassay	immunoassay	sameAs
+259645	http://www.bioassayontology.org/bao#BAO_0000055	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/MMO_0000534	mass spectrometry	mass spectrometry	sameAs
+259646	http://www.bioassayontology.org/bao#BAO_0010252	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/MMO_0000642	protein expression assay	protein expression assay	sameAs
+259647	http://www.bioassayontology.org/bao#BAO_0000015	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/MMO_0000441	bioassay	bioassay	sameAs
+259648	http://www.bioassayontology.org/bao#BAO_0002419	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/MMO_0000458	enzyme-linked immunosorbent spot assay	enzyme-linked immunosorbent spot assay	sameAs
+259649	http://www.bioassayontology.org/bao#BAO_0002805	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/MMO_0000503	cell proliferation assay	cell proliferation assay	sameAs
+259650	http://www.bioassayontology.org/bao#BAO_0002424	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/MMO_0000338	western blot	western blot	sameAs
+259651	http://www.bioassayontology.org/bao#BAO_0002094	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/MMO_0000575	computational method	computational method	sameAs
+259652	http://www.bioassayontology.org/bao#BAO_0002525	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/MMO_0000127	tomography	tomography	sameAs
+259653	http://www.bioassayontology.org/bao#BAO_0002527	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/MMO_0000759	autoradiography	autoradiography	sameAs
+259654	http://purl.obolibrary.org/obo/NCIT_C16681	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/MMO_0000496	Histology	histology	sameAs
+259655	http://www.bioassayontology.org/bao#BAO_0002511	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/CHMO_0000107	differential interference contrast microscopy	differential interference contrast microscopy	sameAs
+259656	http://www.bioassayontology.org/bao#BAO_0000453	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/CHMO_0000103	confocal microscopy	confocal microscopy	sameAs
+259657	http://www.bioassayontology.org/bao#BAO_0000428	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/CHMO_0000683	isothermal titration calorimetry	isothermal titration calorimetry	sameAs
+259658	http://www.bioassayontology.org/bao#BAO_0000458	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/CHMO_0000110	phase contrast microscopy	phase contrast microscopy	sameAs
+259659	http://www.bioassayontology.org/bao#BAO_0000064	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/CHMO_0000094	total internal reflection fluorescence microscopy	total internal reflection fluorescence microscopy	sameAs
+259660	http://www.bioassayontology.org/bao#BAO_0002510	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/CHMO_0002177	dark field microscopy	dark-field microscopy	sameAs
+259661	http://www.bioassayontology.org/bao#BAO_0000457	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/CHMO_0000104	brightfield microscopy	bright-field microscopy	sameAs
+259662	http://www.bioassayontology.org/bao#BAO_0000459	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/CHMO_0000112	scanning probe microscopy	scanning probe microscopy	sameAs
+259663	http://www.bioassayontology.org/bao#BAO_0002523	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/CHMO_0000113	atomic force microscopy	atomic force microscopy	sameAs
+259664	http://www.bioassayontology.org/bao#BAO_0040042	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/CHMO_0000701	liquid chromatography-tandem mass spectrometry	liquid chromatography-tandem mass spectrometry	sameAs
+259666	http://www.bioassayontology.org/bao#BAO_0000454	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/CHMO_0000073	scanning electron microscopy	scanning electron microscopy	sameAs
+259668	http://www.bioassayontology.org/bao#BAO_0000456	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/CHMO_0001077	quartz crystal microbalance	quartz crystal microbalance	sameAs
+259669	http://purl.obolibrary.org/obo/ERO_0001500	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/CHMO_0001004	liquid chromatography 	liquid chromatography	sameAs
+259670	http://www.bioassayontology.org/bao#BAO_0000005	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/CHMO_0000061	flow cytometry	flow cytometry	sameAs
+259671	http://www.bioassayontology.org/bao#BAO_0002508	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/CHMO_0001691	immunoprecipitation	immunoprecipitation	sameAs
+259673	http://www.bioassayontology.org/bao#BAO_0000455	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/CHMO_0000080	transmission electron microscopy	transmission electron microscopy	sameAs
+259674	http://www.bioassayontology.org/bao#BAO_0002526	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/CHMO_0000067	microscopy	microscopy	sameAs
+259675	http://www.bioassayontology.org/bao#BAO_0002454	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/CHMO_0002536	volumetric titration	volumetric titration	sameAs
+259676	http://www.bioassayontology.org/bao#BAO_0000461	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/CHMO_0000063	bioluminescence resonance energy transfer	bioluminescence resonance energy transfer	sameAs
+259678	http://www.bioassayontology.org/bao#BAO_0000450	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/CHMO_0000087	fluorescence microscopy	fluorescence microscopy	sameAs
+259679	http://www.bioassayontology.org/bao#BAO_0000450	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/CHMO_0000087	fluorescence microscopy	fluorescence microscopy assay	sameAs
+259680	http://www.bioassayontology.org/bao#BAO_0000055	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/CHMO_0000470	mass spectrometry	mass spectrometry	sameAs
+259681	http://www.bioassayontology.org/bao#BAO_0002500	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/CHMO_0000999	separation method	separation method	sameAs
+259682	http://www.bioassayontology.org/bao#BAO_0002512	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/CHMO_0000120	scanning near-field optical microscopy	scanning near-field optical microscopy	sameAs
+259684	http://www.bioassayontology.org/bao#BAO_0000001	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/CHMO_0000064	fluorescence resonance energy transfer	fluorescence resonance energy transfer	sameAs
+259687	http://www.bioassayontology.org/bao#BAO_0002414	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/CHMO_0002535	Karl Fischer titration	Karl–Fischer titration	sameAs
+259688	http://www.bioassayontology.org/bao#BAO_0000451	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/CHMO_0000102	optical microscopy	optical microscopy	sameAs
+259689	http://www.bioassayontology.org/bao#BAO_0000451	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/CHMO_0000102	optical microscopy	light microscopy assay	sameAs
+259691	http://www.bioassayontology.org/bao#BAO_0002527	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/CHMO_0001102	autoradiography	autoradiography	sameAs
+259692	http://www.bioassayontology.org/bao#BAO_0000087	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/CHMO_0002196	activation	activation	sameAs
+259693	http://purl.obolibrary.org/obo/CHMO_0000239	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/MMO_0000380	graphite furnace atomic absorption spectrometry	graphite furnace atomic absorption spectrometry	sameAs
+259695	http://purl.obolibrary.org/obo/CHMO_0001082	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/MMO_0000170	osmometry	osmometry	sameAs
+259696	http://purl.obolibrary.org/obo/CHMO_0001015	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/MMO_0000470	gas-solid chromatography	gas-solid chromatography	sameAs
+259697	http://purl.obolibrary.org/obo/CHMO_0000001	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/MMO_0000327	colorimetry	colorimetry	sameAs
+259698	http://purl.obolibrary.org/obo/CHMO_0000243	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/MMO_0000379	flame atomic absorption spectrometry	flame atomic absorption spectrometry	sameAs
+259699	http://purl.obolibrary.org/obo/CHMO_0000103	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/MMO_0000685	confocal microscopy	confocal microscopy	sameAs
+259700	http://purl.obolibrary.org/obo/CHMO_0001006	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/MMO_0000845	affinity chromatography	affinity chromatography	sameAs
+259701	http://purl.obolibrary.org/obo/CHMO_0001001	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/MMO_0000468	column chromatography	column chromatography	sameAs
+259702	http://purl.obolibrary.org/obo/CHMO_0000524	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/MMO_0000535	liquid chromatography-mass spectrometry	liquid chromatography-mass spectrometry	sameAs
+259703	http://purl.obolibrary.org/obo/CHMO_0000291	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/MMO_0000173	spectrophotometry	spectrophotometry	sameAs
+259705	http://purl.obolibrary.org/obo/CHMO_0001694	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/MMO_0000680	chromatin immunoprecipitation	chromatin immunoprecipitation	sameAs
+259706	http://purl.obolibrary.org/obo/CHMO_0000497	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/MMO_0000536	gas chromatography-mass spectrometry	gas chromatography-mass spectrometry	sameAs
+259707	http://purl.obolibrary.org/obo/CHMO_0001691	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/MMO_0000682	immunoprecipitation	immunoprecipitation	sameAs
+259708	http://purl.obolibrary.org/obo/CHMO_0001002	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/MMO_0000469	gas chromatography	gas chromatography	sameAs
+259709	http://purl.obolibrary.org/obo/CHMO_0000470	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/MMO_0000534	mass spectrometry	mass spectrometry	sameAs
+259710	http://purl.obolibrary.org/obo/CHMO_0001007	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/MMO_0000289	thin-layer chromatography	thin layer chromatography	sameAs
+259711	http://purl.obolibrary.org/obo/CHMO_0000322	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/MMO_0000238	liquid scintillation counting	liquid scintillation counting	sameAs
+259712	http://purl.obolibrary.org/obo/CHMO_0001019	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/MMO_0000287	electrophoresis	electrophoresis	sameAs
+259713	http://purl.obolibrary.org/obo/CHMO_0001009	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/MMO_0000394	high-performance liquid chromatography	high-performance liquid chromatography	sameAs
+259714	http://purl.obolibrary.org/obo/CHMO_0001016	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/MMO_0000471	gas-liquid chromatography	gas-liquid chromatography	sameAs
+259715	http://purl.obolibrary.org/obo/CHMO_0001000	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/MMO_0000288	chromatography	chromatography	sameAs
+259716	http://purl.obolibrary.org/obo/CHMO_0000538	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/MMO_0000736	inductively coupled plasma mass spectrometry	inductively coupled plasma mass spectrometry	sameAs
+259717	http://purl.obolibrary.org/obo/CHMO_0001021	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/MMO_0000100	gel electrophoresis	gel electrophoresis	sameAs
+259718	http://purl.obolibrary.org/obo/CHMO_0001011	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/MMO_0000684	gel filtration chromatography	gel filtration chromatography	sameAs
+259719	http://purl.obolibrary.org/obo/CHMO_0001102	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/MMO_0000759	autoradiography	autoradiography	sameAs
+259720	http://purl.obolibrary.org/obo/CHMO_0001209	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/MMO_0000678	anion-exchange chromatography	anion-exchange chromatography	sameAs
+259721	http://purl.obolibrary.org/obo/CHMO_0000591	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/MMO_0000709	nuclear magnetic resonance spectroscopy	nuclear magnetic resonance spectroscopy	sameAs
+259722	http://purl.obolibrary.org/obo/CHMO_0001675	https://www.w3.org/2002/07/owl#sameAs	http://www.ebi.ac.uk/efo/EFO_0000562	labelling	labelling	sameAs
+259723	http://purl.obolibrary.org/obo/CHMO_0001085	https://www.w3.org/2002/07/owl#sameAs	http://www.ebi.ac.uk/efo/EFO_0009108	fluorescence-activated cell sorting	fluorescence-activated cell sorting	sameAs
+259724	http://purl.obolibrary.org/obo/CHMO_0002017	https://www.w3.org/2002/07/owl#sameAs	http://www.ebi.ac.uk/efo/EFO_0009112	density-gradient centrifugation	density gradient centrifugation	sameAs
+259725	http://purl.obolibrary.org/obo/OBI_0302888	https://www.w3.org/2002/07/owl#sameAs	http://www.ebi.ac.uk/efo/EFO_0000735	washing	washing	sameAs
+259726	http://purl.obolibrary.org/obo/OBI_0000011	https://www.w3.org/2002/07/owl#sameAs	http://www.ebi.ac.uk/efo/EFO_0004542	planned process	planned process	sameAs
+259727	http://purl.obolibrary.org/obo/CHMO_0001531	https://www.w3.org/2002/07/owl#sameAs	http://www.ebi.ac.uk/efo/EFO_0009111	laser capture micro-dissection	laser capture microdissection	sameAs
+259728	http://purl.obolibrary.org/obo/CHMO_0000575	https://www.w3.org/2002/07/owl#sameAs	http://www.ebi.ac.uk/efo/EFO_0030056	tandem mass spectrometry	tandem mass spectrometry	sameAs
+259729	http://purl.obolibrary.org/obo/CHMO_0001528	https://www.w3.org/2002/07/owl#sameAs	http://www.ebi.ac.uk/efo/EFO_0003856	dissection	dissection	sameAs
+259731	http://purl.obolibrary.org/obo/CHMO_0000063	https://www.w3.org/2002/07/owl#sameAs	http://www.bioassayontology.org/bao#BAO_0000461	bioluminescence resonance energy transfer	bioluminescence resonance energy transfer	sameAs
+259732	http://purl.obolibrary.org/obo/CHMO_0000120	https://www.w3.org/2002/07/owl#sameAs	http://www.bioassayontology.org/bao#BAO_0002512	scanning near-field optical microscopy	scanning near-field optical microscopy	sameAs
+259733	http://purl.obolibrary.org/obo/CHMO_0000112	https://www.w3.org/2002/07/owl#sameAs	http://www.bioassayontology.org/bao#BAO_0000459	scanning probe microscopy	scanning probe microscopy	sameAs
+259735	http://purl.obolibrary.org/obo/CHMO_0000113	https://www.w3.org/2002/07/owl#sameAs	http://www.bioassayontology.org/bao#BAO_0002523	atomic force microscopy	atomic force microscopy	sameAs
+259736	http://purl.obolibrary.org/obo/CHMO_0000107	https://www.w3.org/2002/07/owl#sameAs	http://www.bioassayontology.org/bao#BAO_0002511	differential interference contrast microscopy	differential interference contrast microscopy	sameAs
+259737	http://purl.obolibrary.org/obo/CHMO_0000701	https://www.w3.org/2002/07/owl#sameAs	http://www.bioassayontology.org/bao#BAO_0040042	liquid chromatography-tandem mass spectrometry	liquid chromatography-tandem mass spectrometry	sameAs
+259739	http://purl.obolibrary.org/obo/CHMO_0000103	https://www.w3.org/2002/07/owl#sameAs	http://www.bioassayontology.org/bao#BAO_0000453	confocal microscopy	confocal microscopy	sameAs
+259740	http://purl.obolibrary.org/obo/CHMO_0000683	https://www.w3.org/2002/07/owl#sameAs	http://www.bioassayontology.org/bao#BAO_0000428	isothermal titration calorimetry	isothermal titration calorimetry	sameAs
+259741	http://purl.obolibrary.org/obo/CHMO_0000073	https://www.w3.org/2002/07/owl#sameAs	http://www.bioassayontology.org/bao#BAO_0000454	scanning electron microscopy	scanning electron microscopy	sameAs
+259743	http://purl.obolibrary.org/obo/CHMO_0001077	https://www.w3.org/2002/07/owl#sameAs	http://www.bioassayontology.org/bao#BAO_0000456	quartz crystal microbalance	quartz crystal microbalance	sameAs
+259744	http://purl.obolibrary.org/obo/CHMO_0000061	https://www.w3.org/2002/07/owl#sameAs	http://www.bioassayontology.org/bao#BAO_0000005	flow cytometry	flow cytometry	sameAs
+259745	http://purl.obolibrary.org/obo/CHMO_0001691	https://www.w3.org/2002/07/owl#sameAs	http://www.bioassayontology.org/bao#BAO_0002508	immunoprecipitation	immunoprecipitation	sameAs
+259747	http://purl.obolibrary.org/obo/CHMO_0000110	https://www.w3.org/2002/07/owl#sameAs	http://www.bioassayontology.org/bao#BAO_0000458	phase contrast microscopy	phase contrast microscopy	sameAs
+259748	http://purl.obolibrary.org/obo/CHMO_0000080	https://www.w3.org/2002/07/owl#sameAs	http://www.bioassayontology.org/bao#BAO_0000455	transmission electron microscopy	transmission electron microscopy	sameAs
+259749	http://purl.obolibrary.org/obo/CHMO_0000067	https://www.w3.org/2002/07/owl#sameAs	http://www.bioassayontology.org/bao#BAO_0002526	microscopy	microscopy	sameAs
+259750	http://purl.obolibrary.org/obo/CHMO_0002536	https://www.w3.org/2002/07/owl#sameAs	http://www.bioassayontology.org/bao#BAO_0002454	volumetric titration	volumetric titration	sameAs
+259752	http://purl.obolibrary.org/obo/CHMO_0000087	https://www.w3.org/2002/07/owl#sameAs	http://www.bioassayontology.org/bao#BAO_0000450	fluorescence microscopy	fluorescence microscopy	sameAs
+259753	http://purl.obolibrary.org/obo/CHMO_0000087	https://www.w3.org/2002/07/owl#sameAs	http://www.bioassayontology.org/bao#BAO_0000450	fluorescence microscopy assay	fluorescence microscopy	sameAs
+259754	http://purl.obolibrary.org/obo/CHMO_0000470	https://www.w3.org/2002/07/owl#sameAs	http://www.bioassayontology.org/bao#BAO_0000055	mass spectrometry	mass spectrometry	sameAs
+259756	http://purl.obolibrary.org/obo/CHMO_0000999	https://www.w3.org/2002/07/owl#sameAs	http://www.bioassayontology.org/bao#BAO_0002500	separation method	separation method	sameAs
+259757	http://purl.obolibrary.org/obo/CHMO_0000094	https://www.w3.org/2002/07/owl#sameAs	http://www.bioassayontology.org/bao#BAO_0000064	total internal reflection fluorescence microscopy	total internal reflection fluorescence microscopy	sameAs
+259760	http://purl.obolibrary.org/obo/OBI_0000661	https://www.w3.org/2002/07/owl#sameAs	http://www.bioassayontology.org/bao#BAO_0000134	ELISA	ELISA	sameAs
+259761	http://purl.obolibrary.org/obo/OBI_0000661	https://www.w3.org/2002/07/owl#sameAs	http://www.bioassayontology.org/bao#BAO_0000134	enzyme-linked immunosorbent assay	ELISA	sameAs
+259763	http://purl.obolibrary.org/obo/CHMO_0000064	https://www.w3.org/2002/07/owl#sameAs	http://www.bioassayontology.org/bao#BAO_0000001	fluorescence resonance energy transfer	fluorescence resonance energy transfer	sameAs
+259766	http://purl.obolibrary.org/obo/CHMO_0002535	https://www.w3.org/2002/07/owl#sameAs	http://www.bioassayontology.org/bao#BAO_0002414	Karl–Fischer titration	Karl Fischer titration	sameAs
+259767	http://purl.obolibrary.org/obo/CHMO_0002177	https://www.w3.org/2002/07/owl#sameAs	http://www.bioassayontology.org/bao#BAO_0002510	dark-field microscopy	dark field microscopy	sameAs
+259770	http://purl.obolibrary.org/obo/CHMO_0000104	https://www.w3.org/2002/07/owl#sameAs	http://www.bioassayontology.org/bao#BAO_0000457	bright-field microscopy	brightfield microscopy	sameAs
+259771	http://purl.obolibrary.org/obo/CHMO_0000102	https://www.w3.org/2002/07/owl#sameAs	http://www.bioassayontology.org/bao#BAO_0000451	optical microscopy	optical microscopy	sameAs
+259772	http://purl.obolibrary.org/obo/CHMO_0000102	https://www.w3.org/2002/07/owl#sameAs	http://www.bioassayontology.org/bao#BAO_0000451	light microscopy assay	optical microscopy	sameAs
+259774	http://purl.obolibrary.org/obo/CHMO_0001102	https://www.w3.org/2002/07/owl#sameAs	http://www.bioassayontology.org/bao#BAO_0002527	autoradiography	autoradiography	sameAs
+259775	http://purl.obolibrary.org/obo/CHMO_0002196	https://www.w3.org/2002/07/owl#sameAs	http://www.bioassayontology.org/bao#BAO_0000087	activation	activation	sameAs
+259776	http://purl.obolibrary.org/obo/CHMO_0000068	https://www.w3.org/2002/07/owl#sameAs	http://www.bioassayontology.org/bao#BAO_0000449	electron microscopy	electron microscopy	sameAs
+259777	http://purl.obolibrary.org/obo/CHMO_0001577	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/OBI_0302884	extraction	extraction	sameAs
+259778	http://purl.obolibrary.org/obo/CHMO_0000060	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/OBI_0001501	fluorescence detection	fluorescence detection assay	sameAs
+259780	http://purl.obolibrary.org/obo/CHMO_0001694	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/OBI_00001975	chromatin immunoprecipitation	chromatin immunoprecipitation	sameAs
+259781	http://purl.obolibrary.org/obo/CHMO_0001691	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/OBI_0000690	immunoprecipitation	immunoprecipitation	sameAs
+259783	http://purl.obolibrary.org/obo/CHMO_0002831	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/OBI_0600010	material acquisition	material acquisition	sameAs
+259788	http://purl.obolibrary.org/obo/CHMO_0001019	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/OBI_0600053	electrophoresis	electrophoresis	sameAs
+259790	http://purl.obolibrary.org/obo/CHMO_0001522	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/OBI_0600052	dialysis	dialysis	sameAs
+259797	http://purl.obolibrary.org/obo/CHMO_0002742	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/OBI_0302905	elution	elution	sameAs
+259805	http://purl.obolibrary.org/obo/CHMO_0000497	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/OBI_0200199	gas chromatography-mass spectrometry	gas chromatography mass spectrometry	sameAs
+259806	http://purl.obolibrary.org/obo/CHMO_0001004	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/OBI_0003547	liquid chromatography	liquid chromatography	sameAs
+259807	http://purl.obolibrary.org/obo/CHMO_0001688	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/OBI_0600034	precipitation	precipitation	sameAs
+259812	http://purl.obolibrary.org/obo/CHMO_0001640	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/OBI_0302885	filtration	filtration	sameAs
+259817	http://purl.obolibrary.org/obo/CHMO_0002231	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/OBI_0001505	purification	purification	sameAs
+259820	http://purl.obolibrary.org/obo/CHMO_0000575	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/OBI_0200198	tandem mass spectrometry	obsolete tandem mass spectrometry	sameAs
+259822	http://purl.obolibrary.org/obo/CHMO_0001528	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/OBI_0001504	dissection	dissection	sameAs
+259823	http://purl.obolibrary.org/obo/CHMO_0002196	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/OBI_0302901	activation	obsolete_activation	sameAs
+259831	http://purl.obolibrary.org/obo/CHMO_0001624	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/NCIT_C157204	fermentation		sameAs
+259832	http://purl.obolibrary.org/obo/CHMO_0002109	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/NCIT_C38085	pulse oximetry		sameAs
+259856	http://purl.obolibrary.org/obo/CHMO_0001522	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/NCIT_C15221	dialysis		sameAs
+259866	http://purl.obolibrary.org/obo/CHMO_0001378	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/NCIT_C25754	infiltration		sameAs
+259880	http://edamontology.org/operation_3192	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/OBI_0002585		sequence trimming	sameAs
+259881	http://edamontology.org/operation_0361	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/OBI_0001944		sequence annotation	sameAs
+259882	http://edamontology.org/topic_0221	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/OBI_0001944		sequence annotation	sameAs
+259884	http://edamontology.org/topic_0182	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/OBI_0002567	Sequence alignment	sequence alignment	sameAs
+259885	http://edamontology.org/data_0863	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/OBI_0002567		sequence alignment	sameAs
+259886	http://edamontology.org/operation_0292	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/OBI_0002567		sequence alignment	sameAs
+259892	http://edamontology.org/topic_3177	https://www.w3.org/2002/07/owl#sameAs	http://www.ebi.ac.uk/efo/EFO_0002693		DNA-seq	sameAs
+259893	http://edamontology.org/operation_3196	https://www.w3.org/2002/07/owl#sameAs	http://www.ebi.ac.uk/efo/EFO_0000750		genotyping	sameAs
+259897	http://edamontology.org/topic_3169	https://www.w3.org/2002/07/owl#sameAs	http://www.ebi.ac.uk/efo/EFO_0002692		ChIP-seq	sameAs
+259899	http://edamontology.org/operation_0365	https://www.w3.org/2002/07/owl#sameAs	http://www.ebi.ac.uk/efo/EFO_0004179		restriction digest	sameAs
+259900	http://edamontology.org/data_1239	https://www.w3.org/2002/07/owl#sameAs	http://www.ebi.ac.uk/efo/EFO_0004179		restriction digest	sameAs
+259901	http://edamontology.org/topic_4028	https://www.w3.org/2002/07/owl#sameAs	http://www.ebi.ac.uk/efo/EFO_0007832		single cell sequencing	sameAs
+259903	http://edamontology.org/operation_3937	https://www.w3.org/2002/07/owl#sameAs	http://www.ebi.ac.uk/efo/EFO_0000494		feature extraction	sameAs
+259910	http://edamontology.org/topic_3673	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/NCIT_C101294		Whole Genome Sequencing	sameAs
+259921	http://edamontology.org/operation_2990	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/NCIT_C25161			sameAs
+259922	http://edamontology.org/topic_2230	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/NCIT_C25161			sameAs
+259939	http://edamontology.org/topic_3385	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/CHMO_0000102	Light microscopy	optical microscopy	sameAs
+259940	http://edamontology.org/topic_3385	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/CHMO_0000102	Light microscopy	light microscopy assay	sameAs
+259942	http://edamontology.org/topic_4017	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/CHMO_0002413		cryogenic electron microscopy	sameAs
+259943	http://edamontology.org/operation_3928	https://www.w3.org/2002/07/owl#sameAs	http://www.bioassayontology.org/bao#BAO_0002348		pathway analysis	sameAs
+259945	http://edamontology.org/topic_0134	https://www.w3.org/2002/07/owl#sameAs	http://www.bioassayontology.org/bao#BAO_0000055	Mass spectrometry	mass spectrometry	sameAs
+259947	http://edamontology.org/operation_3938	https://www.w3.org/2002/07/owl#sameAs	http://www.bioassayontology.org/bao#BAO_0002364		virtual screening	sameAs
+259948	http://edamontology.org/operation_3927	https://www.w3.org/2002/07/owl#sameAs	http://www.bioassayontology.org/bao#BAO_0002361		network analysis	sameAs
+259950	http://edamontology.org/operation_0478	https://www.w3.org/2002/07/owl#sameAs	http://www.bioassayontology.org/bao#BAO_0002373		molecular docking	sameAs
+259951	http://edamontology.org/topic_0177	https://www.w3.org/2002/07/owl#sameAs	http://www.bioassayontology.org/bao#BAO_0002373	Molecular docking	molecular docking	sameAs
+259952	http://edamontology.org/operation_0491	https://www.w3.org/2002/07/owl#sameAs	http://www.bioassayontology.org/bao#BAO_0002246		pairwise sequence alignment	sameAs
+259953	http://edamontology.org/topic_3452	https://www.w3.org/2002/07/owl#sameAs	http://www.bioassayontology.org/bao#BAO_0002525		tomography	sameAs
+259954	http://edamontology.org/operation_3960	https://www.w3.org/2002/07/owl#sameAs	http://www.bioassayontology.org/bao#BAO_0002346		principal component analysis	sameAs
+259955	http://edamontology.org/topic_2271	https://www.w3.org/2002/07/owl#sameAs	http://www.bioassayontology.org/bao#BAO_0002258		structure database search	sameAs
+259956	http://edamontology.org/operation_0339	https://www.w3.org/2002/07/owl#sameAs	http://www.bioassayontology.org/bao#BAO_0002258		structure database search	sameAs
+259960	http://edamontology.org/operation_3927	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/OBI_0200080		network analysis	sameAs
+259961	http://edamontology.org/topic_3474	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/OBI_0002587		machine learning	sameAs
+259963	http://edamontology.org/operation_3937	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/OBI_0001028		feature extraction	sameAs
+259967	http://edamontology.org/topic_4016	https://www.w3.org/2002/07/owl#sameAs	http://www.ebi.ac.uk/efo/EFO_0004327		electrocardiography	sameAs
+259970	http://edamontology.org/operation_3196	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/NCIT_C45447			sameAs
+260000	http://edamontology.org/data_2048	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/NCIT_C25375			sameAs
+260002	http://edamontology.org/topic_0134	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/MMO_0000534	Mass spectrometry	mass spectrometry	sameAs
+260005	http://edamontology.org/topic_4016	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/MMO_0000003		electrocardiography	sameAs
+260008	http://edamontology.org/topic_3452	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/MMO_0000127		tomography	sameAs
+260012	http://edamontology.org/topic_0134	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/CHMO_0000470	Mass spectrometry	mass spectrometry	sameAs
+260013	http://edamontology.org/topic_3448	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/CHMO_0000698		neutron diffraction	sameAs
+260015	http://www.ebi.ac.uk/efo/EFO_0010935	https://www.w3.org/2002/07/owl#sameAs	http://www.bioassayontology.org/bao#BAO_0003003	cytokine secretion assay	cytokine secretion assay	sameAs
+260020	http://www.ebi.ac.uk/efo/EFO_0002698	https://www.w3.org/2002/07/owl#sameAs	http://www.bioassayontology.org/bao#BAO_0000514	array	array	sameAs
+260057	http://www.ebi.ac.uk/efo/EFO_0000506	https://www.w3.org/2002/07/owl#sameAs	http://www.bioassayontology.org/bao#BAO_0002441	gene knock out	gene knockout	sameAs
+260070	http://www.ebi.ac.uk/efo/EFO_0002702	https://www.w3.org/2002/07/owl#sameAs	http://www.bioassayontology.org/bao#BAO_0000505	protein array	protein array	sameAs
+260078	http://purl.obolibrary.org/obo/OBI_0000415	https://www.w3.org/2002/07/owl#sameAs	http://www.bioassayontology.org/bao#BAO_0002080	polymerase chain reaction	polymerase chain reaction	sameAs
+260080	http://www.ebi.ac.uk/efo/EFO_0000395	https://www.w3.org/2002/07/owl#sameAs	http://www.bioassayontology.org/bao#BAO_0002198	delivery method	delivery method	sameAs
+260105	http://www.ebi.ac.uk/efo/EFO_0004176	https://www.w3.org/2002/07/owl#sameAs	http://www.bioassayontology.org/bao#BAO_0010023	ChIP	chip	sameAs
+260112	http://www.ebi.ac.uk/efo/EFO_0004963	https://www.w3.org/2002/07/owl#sameAs	http://www.bioassayontology.org/bao#BAO_0002432	gene knock in	gene knock in	sameAs
+260124	http://www.ebi.ac.uk/efo/EFO_0030037	https://www.w3.org/2002/07/owl#sameAs	http://www.bioassayontology.org/bao#BAO_0010253	T cell activation assay	T-cell activation assay	sameAs
+260127	http://purl.obolibrary.org/obo/OBI_0000552	https://www.w3.org/2002/07/owl#sameAs	http://www.bioassayontology.org/bao#BAO_0002089	reverse transcription PCR	reverse transcription PCR	sameAs
+260128	http://purl.obolibrary.org/obo/OBI_0000552	https://www.w3.org/2002/07/owl#sameAs	http://www.bioassayontology.org/bao#BAO_0002089	reverse transcribed polymerase chain reaction	reverse transcription PCR	sameAs
+260135	http://www.ebi.ac.uk/efo/EFO_0002909	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/OBI_0002119	microscopy assay	microscopy assay	sameAs
+260136	http://www.ebi.ac.uk/efo/EFO_0004182	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/OBI_0002090	Rapid Amplification of cDNA Ends	rapid amplification of cDNA ends	sameAs
+260147	http://www.ebi.ac.uk/efo/EFO_0010891	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/OBI_0002764	scATAC-seq	single-cell ATAC-seq	sameAs
+260148	http://www.ebi.ac.uk/efo/EFO_0000726	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/OBI_0001152	transfection	transfection	sameAs
+260154	http://www.ebi.ac.uk/efo/EFO_0000506	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/OBI_0001148	gene knock out	gene knock out	sameAs
+260167	http://www.ebi.ac.uk/efo/EFO_0004542	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/OBI_0000011	planned process	planned process	sameAs
+260169	http://www.ebi.ac.uk/efo/EFO_0001744	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/OBI_0001409	cell cycle design	cell cycle design	sameAs
+260170	http://www.ebi.ac.uk/efo/EFO_0007688	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/OBI_0002439	chromosome conformation capture assay	chromosome conformation capture assay	sameAs
+260173	http://www.ebi.ac.uk/efo/EFO_0004963	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/OBI_0001149	gene knock in	gene knock in	sameAs
+260177	http://www.ebi.ac.uk/efo/EFO_0009120	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/OBI_0002650	biopsy	biopsy	sameAs
+260187	http://www.ebi.ac.uk/efo/EFO_0009126	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/OBI_0003231	leukapheresis	leukapheresis	sameAs
+260188	http://www.ebi.ac.uk/efo/EFO_0009717	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/OBIB_0000157	bilateral oophorectomy		sameAs
+260189	http://www.ebi.ac.uk/efo/EFO_0001458	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/OBI_2100023	protein assay	protein assay	sameAs
+260192	http://purl.obolibrary.org/obo/OBI_0001700	https://www.w3.org/2002/07/owl#sameAs	http://uri.neuinfo.org/nif/nifstd/OBI_0000690	immunoprecipitation assay		sameAs
+260198	http://www.ebi.ac.uk/efo/EFO_0005315	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/OBI_0001154	induced mutation	induced mutagenesis	sameAs
+260207	http://www.ebi.ac.uk/efo/EFO_0003942	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/OBI_0100058	Xenograft	xenograft	sameAs
+260214	http://www.ebi.ac.uk/efo/EFO_0004307	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/OBI_0000721	glucose tolerance test	glucose tolerance test	sameAs
+260216	http://www.ebi.ac.uk/efo/EFO_0000735	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/OBI_0302888	washing	washing	sameAs
+260222	http://www.ebi.ac.uk/efo/EFO_0000494	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/OBI_0001028	feature extraction	feature extraction	sameAs
+260229	http://www.ebi.ac.uk/efo/EFO_0030056	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/OBI_0200198	tandem mass spectrometry	obsolete tandem mass spectrometry	sameAs
+260236	http://www.ebi.ac.uk/efo/EFO_0003856	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/OBI_0001504	dissection	dissection	sameAs
+260239	http://www.ebi.ac.uk/efo/EFO_0000663	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/OBI_0600016	pool	pooling specimens	sameAs
+260240	http://www.ebi.ac.uk/efo/EFO_0002759	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/OBI_0001332	methylation profiling by array	DNA methylation profiling by array assay	sameAs
+260241	http://www.ebi.ac.uk/efo/EFO_0001746	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/OBI_0100055	development or differentiation design	obsolete_cell line cell	sameAs
+260243	http://www.ebi.ac.uk/efo/EFO_0002762	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/OBI_0001419	ChIP-chip by tiling array	ChIP-chip by tiling array assay	sameAs
+260245	http://www.ebi.ac.uk/efo/EFO_0001746	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/OBI_0001328	development or differentiation design	organism development design	sameAs
+260247	http://www.ebi.ac.uk/efo/EFO_0000541	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/OBI_0000690	immunoprecipitate	immunoprecipitation	sameAs
+260250	http://www.ebi.ac.uk/efo/EFO_0002769	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/OBI_0001235	transcription profiling by tiling array	transcription profiling by tiling array assay	sameAs
+260253	http://www.ebi.ac.uk/efo/EFO_0002764	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/OBI_0001221	ChIP-chip by SNP array	ChIP-chip by SNP array assay	sameAs
+260254	http://www.ebi.ac.uk/efo/EFO_0002771	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/OBI_0001247	genotyping by high throughput sequencing	genotyping by high throughput sequencing assay	sameAs
+260255	http://www.ebi.ac.uk/efo/EFO_0002698	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/OBI_0400147	array	microarray	sameAs
+260257	http://www.ebi.ac.uk/efo/EFO_0002701	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/OBI_0400148	DNA array	DNA microarray	sameAs
+260258	http://www.ebi.ac.uk/efo/EFO_0000752	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/OBI_0000366	metabolomic profiling	metabolite profiling assay	sameAs
+260259	http://www.ebi.ac.uk/efo/EFO_0001746	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/OBI_0001409	development or differentiation design	cell cycle design	sameAs
+260261	http://www.ebi.ac.uk/efo/EFO_0003740	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/OBI_0600047	assay by sequencer	sequencing assay	sameAs
+260262	http://www.ebi.ac.uk/efo/EFO_0002771	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/OBI_0001200	genotyping by high throughput sequencing	genotyping by high throughput sequencing design	sameAs
+260265	http://www.ebi.ac.uk/efo/EFO_0002693	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/OBI_0000626	DNA-seq	DNA sequencing assay	sameAs
+260266	http://www.ebi.ac.uk/efo/EFO_0002692	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/OBI_0000716	ChIP-seq	ChIP-seq assay	sameAs
+260269	http://www.ebi.ac.uk/efo/EFO_0003942	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/OBI_0000043	Xenograft	xenotransplantation	sameAs
+260270	http://www.ebi.ac.uk/efo/EFO_0001030	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/OBI_0001304	RNAi profiling by array	RNAi profiling by array assay	sameAs
+260272	http://www.ebi.ac.uk/efo/EFO_0002770	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/OBI_0001271	transcription profiling by high throughput sequencing	RNA-seq assay	sameAs
+260274	http://www.ebi.ac.uk/efo/EFO_0002702	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/OBI_0400149	protein array	protein microarray	sameAs
+260276	http://www.ebi.ac.uk/efo/EFO_0000562	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/OBI_0600038	labelling	addition of molecular label	sameAs
+260277	http://www.ebi.ac.uk/efo/EFO_0002768	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/OBI_0001463	transcription profiling by array	transcription profiling by array assay	sameAs
+260280	http://www.ebi.ac.uk/efo/EFO_0001032	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/OBI_0000424	transcription profiling	transcription profiling assay	sameAs
+260285	http://www.ebi.ac.uk/efo/EFO_0000753	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/OBI_0001335	microRNA profiling by array	microRNA profiling by array assay	sameAs
+260286	http://www.ebi.ac.uk/efo/EFO_0002774	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/OBI_0000470	assay by mass spectrometry	mass spectrometry assay	sameAs
+260287	http://www.ebi.ac.uk/efo/EFO_0002704	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/OBI_0001307	tiling array	tiling microarray	sameAs
+260289	http://www.ebi.ac.uk/efo/EFO_0002703	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/OBI_0001204	SNP array	SNP microarray	sameAs
+260292	http://www.ebi.ac.uk/efo/EFO_0002760	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/OBI_0001248	ChIP-chip by array	ChIP-chip assay	sameAs
+260294	http://www.ebi.ac.uk/efo/EFO_0002761	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/OBI_0001266	methylation profiling by high throughput sequencing	DNA methylation profiling by high throughput sequencing assay	sameAs
+260296	http://www.ebi.ac.uk/efo/EFO_0001033	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/OBI_0001282	translation profiling	translation profiling assay	sameAs
+260300	http://www.ebi.ac.uk/efo/EFO_0001746	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/OBI_0000891	development or differentiation design	cell proliferation assay	sameAs
+260301	http://www.ebi.ac.uk/efo/EFO_0000554	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/OBI_0302889	irradiate	planned irradiation	sameAs
+260340	http://www.ebi.ac.uk/efo/EFO_0003942	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/NCIT_C12932	Xenograft		sameAs
+260765	http://www.ebi.ac.uk/efo/EFO_0009638	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/NCIT_C114102	spontaneous labor and birth		sameAs
+261356	http://purl.obolibrary.org/obo/UBERON_0002542	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/NCIT_C25664	scale		sameAs
+261432	http://www.ebi.ac.uk/efo/EFO_0010719	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/NCIT_C124040	continuous positive airway pressure		sameAs
+262125	http://www.ebi.ac.uk/efo/EFO_0010674	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/NCIT_C80461	cardioverter defibrillator		sameAs
+262161	http://www.ebi.ac.uk/efo/EFO_0020987	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/NCIT_C15277	mastectomy		sameAs
+262209	http://www.ebi.ac.uk/efo/EFO_0005054	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/NCIT_C41329	QRS complex		sameAs
+262347	http://www.ebi.ac.uk/efo/EFO_0009642	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/NCIT_C16033	follow-up		sameAs
+262536	http://www.ebi.ac.uk/efo/EFO_0000750	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/NCIT_C45447	genotyping		sameAs
+262758	http://www.ebi.ac.uk/efo/EFO_0005315	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/NCIT_C40987	induced mutation		sameAs
+262876	http://www.ebi.ac.uk/efo/EFO_0009629	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/NCIT_C25499	event		sameAs
+263017	http://www.ebi.ac.uk/efo/EFO_0010960	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/NCIT_C15327	lumbar puncture		sameAs
+263347	http://www.ebi.ac.uk/efo/EFO_0010064	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/NCIT_C15986	Pharmacotherapy		sameAs
+264164	http://www.ebi.ac.uk/efo/EFO_0003960	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/NCIT_C17204	computed tomography		sameAs
+264999	http://www.ebi.ac.uk/efo/EFO_0009517	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/NCIT_C41383	checkup		sameAs
+265198	http://www.ebi.ac.uk/efo/EFO_0010063	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/NCIT_C49236	Therapeutic Procedure		sameAs
+265261	http://www.ebi.ac.uk/efo/EFO_0000487	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/NCIT_C17941	exposure		sameAs
+265338	http://www.ebi.ac.uk/efo/EFO_0009581	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/NCIT_C15315	rehabilitation		sameAs
+265592	http://www.ebi.ac.uk/efo/EFO_0004292	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/NCIT_C15346	vaccination		sameAs
+266455	http://www.ebi.ac.uk/efo/EFO_0030079	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/NCIT_C15310	paracentesis		sameAs
+266944	http://www.ebi.ac.uk/efo/EFO_0009631	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/NCIT_C50558	fall		sameAs
+266945	http://www.ebi.ac.uk/efo/EFO_0009631	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/NCIT_C94733	fall		sameAs
+267212	http://www.ebi.ac.uk/efo/EFO_0009120	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/NCIT_C15189	biopsy		sameAs
+267819	http://purl.obolibrary.org/obo/UBERON_0002542	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/MMO_0000217	scale	scale	sameAs
+267820	http://www.ebi.ac.uk/efo/EFO_0003960	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/MMO_0000128	computed tomography	computed tomography	sameAs
+267821	http://www.ebi.ac.uk/efo/EFO_0004327	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/MMO_0000003	electrocardiography	electrocardiography	sameAs
+267822	http://purl.obolibrary.org/obo/BTO_0000155	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/MMO_0000633	bronchoalveolar lavage	bronchoalveolar lavage	sameAs
+267823	http://www.ebi.ac.uk/efo/EFO_0000562	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/CHMO_0001675	labelling	labelling	sameAs
+267825	http://www.ebi.ac.uk/efo/EFO_0009108	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/CHMO_0001085	fluorescence-activated cell sorting	fluorescence-activated cell sorting	sameAs
+267826	http://www.ebi.ac.uk/efo/EFO_0009112	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/CHMO_0002017	density gradient centrifugation	density-gradient centrifugation	sameAs
+267828	http://www.ebi.ac.uk/efo/EFO_0009111	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/CHMO_0001531	laser capture microdissection	laser capture micro-dissection	sameAs
+267829	http://www.ebi.ac.uk/efo/EFO_0030056	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/CHMO_0000575	tandem mass spectrometry	tandem mass spectrometry	sameAs
+267830	http://www.ebi.ac.uk/efo/EFO_0003856	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/CHMO_0001528	dissection	dissection	sameAs
+267833	http://purl.obolibrary.org/obo/MMO_0000170	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/CHMO_0001082	osmometry	osmometry	sameAs
+267834	http://purl.obolibrary.org/obo/MMO_0000470	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/CHMO_0001015	gas-solid chromatography	gas-solid chromatography	sameAs
+267835	http://purl.obolibrary.org/obo/MMO_0000327	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/CHMO_0000001	colorimetry	colorimetry	sameAs
+267836	http://purl.obolibrary.org/obo/MMO_0000379	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/CHMO_0000243	flame atomic absorption spectrometry	flame atomic absorption spectrometry	sameAs
+267837	http://purl.obolibrary.org/obo/MMO_0000685	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/CHMO_0000103	confocal microscopy	confocal microscopy	sameAs
+267838	http://purl.obolibrary.org/obo/MMO_0000845	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/CHMO_0001006	affinity chromatography	affinity chromatography	sameAs
+267839	http://purl.obolibrary.org/obo/MMO_0000468	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/CHMO_0001001	column chromatography	column chromatography	sameAs
+267840	http://purl.obolibrary.org/obo/MMO_0000535	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/CHMO_0000524	liquid chromatography-mass spectrometry	liquid chromatography-mass spectrometry	sameAs
+267841	http://purl.obolibrary.org/obo/MMO_0000173	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/CHMO_0000291	spectrophotometry	spectrophotometry	sameAs
+267843	http://purl.obolibrary.org/obo/MMO_0000680	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/CHMO_0001694	chromatin immunoprecipitation	chromatin immunoprecipitation	sameAs
+267844	http://purl.obolibrary.org/obo/MMO_0000536	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/CHMO_0000497	gas chromatography-mass spectrometry	gas chromatography-mass spectrometry	sameAs
+267845	http://purl.obolibrary.org/obo/MMO_0000682	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/CHMO_0001691	immunoprecipitation	immunoprecipitation	sameAs
+267846	http://purl.obolibrary.org/obo/MMO_0000469	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/CHMO_0001002	gas chromatography	gas chromatography	sameAs
+267847	http://purl.obolibrary.org/obo/MMO_0000534	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/CHMO_0000470	mass spectrometry	mass spectrometry	sameAs
+267848	http://purl.obolibrary.org/obo/MMO_0000289	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/CHMO_0001007	thin layer chromatography	thin-layer chromatography	sameAs
+267849	http://purl.obolibrary.org/obo/MMO_0000380	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/CHMO_0000239	graphite furnace atomic absorption spectrometry	graphite furnace atomic absorption spectrometry	sameAs
+267850	http://purl.obolibrary.org/obo/MMO_0000238	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/CHMO_0000322	liquid scintillation counting	liquid scintillation counting	sameAs
+267851	http://purl.obolibrary.org/obo/MMO_0000287	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/CHMO_0001019	electrophoresis	electrophoresis	sameAs
+267852	http://purl.obolibrary.org/obo/MMO_0000394	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/CHMO_0001009	high-performance liquid chromatography	high-performance liquid chromatography	sameAs
+267853	http://purl.obolibrary.org/obo/MMO_0000471	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/CHMO_0001016	gas-liquid chromatography	gas-liquid chromatography	sameAs
+267854	http://purl.obolibrary.org/obo/MMO_0000288	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/CHMO_0001000	chromatography	chromatography	sameAs
+267855	http://purl.obolibrary.org/obo/MMO_0000736	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/CHMO_0000538	inductively coupled plasma mass spectrometry	inductively coupled plasma mass spectrometry	sameAs
+267856	http://purl.obolibrary.org/obo/MMO_0000100	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/CHMO_0001021	gel electrophoresis	gel electrophoresis	sameAs
+267857	http://purl.obolibrary.org/obo/MMO_0000684	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/CHMO_0001011	gel filtration chromatography	gel filtration chromatography	sameAs
+267858	http://purl.obolibrary.org/obo/MMO_0000759	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/CHMO_0001102	autoradiography	autoradiography	sameAs
+267859	http://purl.obolibrary.org/obo/MMO_0000678	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/CHMO_0001209	anion-exchange chromatography	anion-exchange chromatography	sameAs
+267860	http://purl.obolibrary.org/obo/MMO_0000709	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/CHMO_0000591	nuclear magnetic resonance spectroscopy	nuclear magnetic resonance spectroscopy	sameAs
+267861	http://purl.obolibrary.org/obo/MMO_0000128	https://www.w3.org/2002/07/owl#sameAs	http://www.ebi.ac.uk/efo/EFO_0003960	computed tomography	computed tomography	sameAs
+267862	http://purl.obolibrary.org/obo/MMO_0000003	https://www.w3.org/2002/07/owl#sameAs	http://www.ebi.ac.uk/efo/EFO_0004327	electrocardiography	electrocardiography	sameAs
+267863	http://purl.obolibrary.org/obo/MMO_0000642	https://www.w3.org/2002/07/owl#sameAs	http://www.bioassayontology.org/bao#BAO_0010252	protein expression assay	protein expression assay	sameAs
+267864	http://purl.obolibrary.org/obo/MMO_0000575	https://www.w3.org/2002/07/owl#sameAs	http://www.bioassayontology.org/bao#BAO_0002094	computational method	computational method	sameAs
+267865	http://purl.obolibrary.org/obo/MMO_0000426	https://www.w3.org/2002/07/owl#sameAs	http://www.bioassayontology.org/bao#BAO_0002463	Bradford protein assay	Bradford protein assay	sameAs
+267866	http://purl.obolibrary.org/obo/MMO_0000073	https://www.w3.org/2002/07/owl#sameAs	http://www.bioassayontology.org/bao#BAO_0002428	radioimmunoassay	radioimmunoassay	sameAs
+267867	http://purl.obolibrary.org/obo/MMO_0000685	https://www.w3.org/2002/07/owl#sameAs	http://www.bioassayontology.org/bao#BAO_0000453	confocal microscopy	confocal microscopy	sameAs
+267868	http://purl.obolibrary.org/obo/MMO_0000498	https://www.w3.org/2002/07/owl#sameAs	http://www.bioassayontology.org/bao#BAO_0000415	immunohistochemistry	immunohistochemistry	sameAs
+267869	http://purl.obolibrary.org/obo/MMO_0000682	https://www.w3.org/2002/07/owl#sameAs	http://www.bioassayontology.org/bao#BAO_0002508	immunoprecipitation	immunoprecipitation	sameAs
+267870	http://purl.obolibrary.org/obo/MMO_0000098	https://www.w3.org/2002/07/owl#sameAs	http://www.bioassayontology.org/bao#BAO_0000129	immunoassay	immunoassay	sameAs
+267871	http://purl.obolibrary.org/obo/MMO_0000534	https://www.w3.org/2002/07/owl#sameAs	http://www.bioassayontology.org/bao#BAO_0000055	mass spectrometry	mass spectrometry	sameAs
+267872	http://purl.obolibrary.org/obo/MMO_0000441	https://www.w3.org/2002/07/owl#sameAs	http://www.bioassayontology.org/bao#BAO_0000015	bioassay	bioassay	sameAs
+267873	http://purl.obolibrary.org/obo/MMO_0000458	https://www.w3.org/2002/07/owl#sameAs	http://www.bioassayontology.org/bao#BAO_0002419	enzyme-linked immunosorbent spot assay	enzyme-linked immunosorbent spot assay	sameAs
+267874	http://purl.obolibrary.org/obo/MMO_0000503	https://www.w3.org/2002/07/owl#sameAs	http://www.bioassayontology.org/bao#BAO_0002805	cell proliferation assay	cell proliferation assay	sameAs
+267875	http://purl.obolibrary.org/obo/MMO_0000338	https://www.w3.org/2002/07/owl#sameAs	http://www.bioassayontology.org/bao#BAO_0002424	western blot	western blot	sameAs
+267876	http://purl.obolibrary.org/obo/MMO_0000127	https://www.w3.org/2002/07/owl#sameAs	http://www.bioassayontology.org/bao#BAO_0002525	tomography	tomography	sameAs
+267877	http://purl.obolibrary.org/obo/MMO_0000759	https://www.w3.org/2002/07/owl#sameAs	http://www.bioassayontology.org/bao#BAO_0002527	autoradiography	autoradiography	sameAs
+267878	http://purl.obolibrary.org/obo/MMO_0000680	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/OBI_00001975	chromatin immunoprecipitation	chromatin immunoprecipitation	sameAs
+267879	http://purl.obolibrary.org/obo/MMO_0000682	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/OBI_0000690	immunoprecipitation	immunoprecipitation	sameAs
+267880	http://purl.obolibrary.org/obo/MMO_0000669	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/OBI_0000854	western blot assay	western blot assay	sameAs
+267881	http://purl.obolibrary.org/obo/MMO_0000459	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/OBI_0002692	polymerase chain reaction assay	polymerase chain reaction assay	sameAs
+267882	http://purl.obolibrary.org/obo/MMO_0000287	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/OBI_0600053	electrophoresis	electrophoresis	sameAs
+267883	http://purl.obolibrary.org/obo/MMO_0000460	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/OBI_0000893	real-time polymerase chain reaction assay	real time polymerase chain reaction assay	sameAs
+267884	http://purl.obolibrary.org/obo/MMO_0000655	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/OBI_0001170	reverse transcription polymerase chain reaction assay	reverse transcription polymerase chain reaction assay	sameAs
+267885	http://purl.obolibrary.org/obo/MMO_0000647	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/OBI_0000860	Northern blot assay	northern blot assay	sameAs
+267886	http://purl.obolibrary.org/obo/MMO_0000659	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/OBI_0001271	RNA-seq assay	RNA-seq assay	sameAs
+267887	http://purl.obolibrary.org/obo/MMO_0000073	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/OBI_0000910	radioimmunoassay	radio immuno assay	sameAs
+267888	http://purl.obolibrary.org/obo/MMO_0000075	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/OBI_0000661	enzyme linked immunosorbent assay	ELISA	sameAs
+267889	http://purl.obolibrary.org/obo/MMO_0000075	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/OBI_0000661	enzyme linked immunosorbent assay	enzyme-linked immunosorbent assay	sameAs
+267890	http://purl.obolibrary.org/obo/MMO_0000498	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/OBI_0001986	immunohistochemistry	immunohistochemistry	sameAs
+267891	http://purl.obolibrary.org/obo/MMO_0000536	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/OBI_0200199	gas chromatography-mass spectrometry	gas chromatography mass spectrometry	sameAs
+267892	http://purl.obolibrary.org/obo/MMO_0000503	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/OBI_0000891	cell proliferation assay	cell proliferation assay	sameAs
+267893	http://purl.obolibrary.org/obo/MMO_0000660	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/OBI_0002029	serial analysis of gene expression assay	serial analysis of gene expression assay	sameAs
+267894	http://purl.obolibrary.org/obo/MMO_0000496	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/OBI_0600020	histology	histological assay	sameAs
+267896	http://purl.obolibrary.org/obo/MMO_0000712	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/OBI_0302886	centrifugation	centrifugation	sameAs
+267899	http://purl.obolibrary.org/obo/MMO_0000368	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/NCIT_C78807	hemocytometer		sameAs
+267900	http://purl.obolibrary.org/obo/MMO_0000217	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/NCIT_C25664	scale		sameAs
+267901	http://purl.obolibrary.org/obo/MMO_0000683	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/NCIT_C19830	co-immunoprecipitation		sameAs
+267902	http://purl.obolibrary.org/obo/MMO_0000128	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/NCIT_C17204	computed tomography		sameAs
+267903	http://purl.obolibrary.org/obo/MMO_0000094	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/NCIT_C85397	spirometry		sameAs
+267904	http://purl.obolibrary.org/obo/MMO_0000019	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/NCIT_C16809	magnetic resonance imaging		sameAs
+267905	http://purl.obolibrary.org/obo/MMO_0000496	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/NCIT_C16681	histology	Histology	sameAs
+268578	http://purl.obolibrary.org/obo/NCIT_C18117	https://www.w3.org/2002/07/owl#sameAs	http://www.bioassayontology.org/bao#BAO_0000054		surface plasmon resonance	sameAs
+268589	http://purl.obolibrary.org/obo/NCIT_C44282	https://www.w3.org/2002/07/owl#sameAs	http://www.bioassayontology.org/bao#BAO_0010048		Microarray	sameAs
+268770	http://purl.obolibrary.org/obo/NCIT_C53319	https://www.w3.org/2002/07/owl#sameAs	http://www.bioassayontology.org/bao#BAO_0002173		mean	sameAs
+268972	http://purl.obolibrary.org/obo/NCIT_C62655	https://www.w3.org/2002/07/owl#sameAs	http://www.bioassayontology.org/bao#BAO_0000050		bioluminescence	sameAs
+269518	http://purl.obolibrary.org/obo/NCIT_C28007	https://www.w3.org/2002/07/owl#sameAs	http://www.bioassayontology.org/bao#BAO_0002174		median	sameAs
+269859	http://purl.obolibrary.org/obo/NCIT_C157204	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/CHMO_0001624		fermentation	sameAs
+269860	http://purl.obolibrary.org/obo/NCIT_C38085	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/CHMO_0002109		pulse oximetry	sameAs
+269884	http://purl.obolibrary.org/obo/NCIT_C15221	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/CHMO_0001522		dialysis	sameAs
+269894	http://purl.obolibrary.org/obo/NCIT_C25754	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/CHMO_0001378		infiltration	sameAs
+269898	http://purl.obolibrary.org/obo/NCIT_C101294	https://www.w3.org/2002/07/owl#sameAs	http://edamontology.org/topic_3673	Whole Genome Sequencing		sameAs
+269909	http://purl.obolibrary.org/obo/NCIT_C25161	https://www.w3.org/2002/07/owl#sameAs	http://edamontology.org/operation_2990			sameAs
+269910	http://purl.obolibrary.org/obo/NCIT_C25161	https://www.w3.org/2002/07/owl#sameAs	http://edamontology.org/topic_2230			sameAs
+269919	http://purl.obolibrary.org/obo/NCIT_C45447	https://www.w3.org/2002/07/owl#sameAs	http://edamontology.org/operation_3196			sameAs
+269949	http://purl.obolibrary.org/obo/NCIT_C25375	https://www.w3.org/2002/07/owl#sameAs	http://edamontology.org/data_2048			sameAs
+269989	http://purl.obolibrary.org/obo/NCIT_C12932	https://www.w3.org/2002/07/owl#sameAs	http://www.ebi.ac.uk/efo/EFO_0003942		Xenograft	sameAs
+270414	http://purl.obolibrary.org/obo/NCIT_C114102	https://www.w3.org/2002/07/owl#sameAs	http://www.ebi.ac.uk/efo/EFO_0009638		spontaneous labor and birth	sameAs
+271005	http://purl.obolibrary.org/obo/NCIT_C25664	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/UBERON_0002542		scale	sameAs
+271081	http://purl.obolibrary.org/obo/NCIT_C124040	https://www.w3.org/2002/07/owl#sameAs	http://www.ebi.ac.uk/efo/EFO_0010719		continuous positive airway pressure	sameAs
+271774	http://purl.obolibrary.org/obo/NCIT_C80461	https://www.w3.org/2002/07/owl#sameAs	http://www.ebi.ac.uk/efo/EFO_0010674		cardioverter defibrillator	sameAs
+271810	http://purl.obolibrary.org/obo/NCIT_C15277	https://www.w3.org/2002/07/owl#sameAs	http://www.ebi.ac.uk/efo/EFO_0020987		mastectomy	sameAs
+271858	http://purl.obolibrary.org/obo/NCIT_C41329	https://www.w3.org/2002/07/owl#sameAs	http://www.ebi.ac.uk/efo/EFO_0005054		QRS complex	sameAs
+271996	http://purl.obolibrary.org/obo/NCIT_C16033	https://www.w3.org/2002/07/owl#sameAs	http://www.ebi.ac.uk/efo/EFO_0009642		follow-up	sameAs
+272185	http://purl.obolibrary.org/obo/NCIT_C45447	https://www.w3.org/2002/07/owl#sameAs	http://www.ebi.ac.uk/efo/EFO_0000750		genotyping	sameAs
+272407	http://purl.obolibrary.org/obo/NCIT_C40987	https://www.w3.org/2002/07/owl#sameAs	http://www.ebi.ac.uk/efo/EFO_0005315		induced mutation	sameAs
+272525	http://purl.obolibrary.org/obo/NCIT_C25499	https://www.w3.org/2002/07/owl#sameAs	http://www.ebi.ac.uk/efo/EFO_0009629		event	sameAs
+272666	http://purl.obolibrary.org/obo/NCIT_C15327	https://www.w3.org/2002/07/owl#sameAs	http://www.ebi.ac.uk/efo/EFO_0010960		lumbar puncture	sameAs
+272996	http://purl.obolibrary.org/obo/NCIT_C15986	https://www.w3.org/2002/07/owl#sameAs	http://www.ebi.ac.uk/efo/EFO_0010064		Pharmacotherapy	sameAs
+273813	http://purl.obolibrary.org/obo/NCIT_C17204	https://www.w3.org/2002/07/owl#sameAs	http://www.ebi.ac.uk/efo/EFO_0003960		computed tomography	sameAs
+274648	http://purl.obolibrary.org/obo/NCIT_C41383	https://www.w3.org/2002/07/owl#sameAs	http://www.ebi.ac.uk/efo/EFO_0009517		checkup	sameAs
+274847	http://purl.obolibrary.org/obo/NCIT_C49236	https://www.w3.org/2002/07/owl#sameAs	http://www.ebi.ac.uk/efo/EFO_0010063		Therapeutic Procedure	sameAs
+274910	http://purl.obolibrary.org/obo/NCIT_C17941	https://www.w3.org/2002/07/owl#sameAs	http://www.ebi.ac.uk/efo/EFO_0000487		exposure	sameAs
+274987	http://purl.obolibrary.org/obo/NCIT_C15315	https://www.w3.org/2002/07/owl#sameAs	http://www.ebi.ac.uk/efo/EFO_0009581		rehabilitation	sameAs
+275241	http://purl.obolibrary.org/obo/NCIT_C15346	https://www.w3.org/2002/07/owl#sameAs	http://www.ebi.ac.uk/efo/EFO_0004292		vaccination	sameAs
+276104	http://purl.obolibrary.org/obo/NCIT_C15310	https://www.w3.org/2002/07/owl#sameAs	http://www.ebi.ac.uk/efo/EFO_0030079		paracentesis	sameAs
+276593	http://purl.obolibrary.org/obo/NCIT_C50558	https://www.w3.org/2002/07/owl#sameAs	http://www.ebi.ac.uk/efo/EFO_0009631		fall	sameAs
+276594	http://purl.obolibrary.org/obo/NCIT_C94733	https://www.w3.org/2002/07/owl#sameAs	http://www.ebi.ac.uk/efo/EFO_0009631		fall	sameAs
+276861	http://purl.obolibrary.org/obo/NCIT_C15189	https://www.w3.org/2002/07/owl#sameAs	http://www.ebi.ac.uk/efo/EFO_0009120		biopsy	sameAs
+277470	http://purl.obolibrary.org/obo/NCIT_C78807	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/MMO_0000368		hemocytometer	sameAs
+277471	http://purl.obolibrary.org/obo/NCIT_C25664	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/MMO_0000217		scale	sameAs
+277472	http://purl.obolibrary.org/obo/NCIT_C19830	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/MMO_0000683		co-immunoprecipitation	sameAs
+277473	http://purl.obolibrary.org/obo/NCIT_C17204	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/MMO_0000128		computed tomography	sameAs
+277474	http://purl.obolibrary.org/obo/NCIT_C85397	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/MMO_0000094		spirometry	sameAs
+277475	http://purl.obolibrary.org/obo/NCIT_C16809	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/MMO_0000019		magnetic resonance imaging	sameAs
+277476	http://purl.obolibrary.org/obo/NCIT_C73482	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/OBI_0000943		chemical cleavage	sameAs
+277477	http://purl.obolibrary.org/obo/NCIT_C15190	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/OBI_0002654		needle biopsy	sameAs
+277480	http://purl.obolibrary.org/obo/NCIT_C15342	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/OBI_0000105		transplantation	sameAs
+277482	http://purl.obolibrary.org/obo/NCIT_C25867	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/OBI_0400149		protein microarray	sameAs
+277486	http://purl.obolibrary.org/obo/NCIT_C19498	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/IAO_0000310		document	sameAs
+277514	http://purl.obolibrary.org/obo/NCIT_C50544	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/OBI_0302895		electrocution	sameAs
+277532	http://purl.obolibrary.org/obo/NCIT_C44282	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/OBI_0400147		microarray	sameAs
+277537	http://purl.obolibrary.org/obo/NCIT_C17048	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/OBI_0001000		questionnaire	sameAs
+277540	http://purl.obolibrary.org/obo/NCIT_C12932	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/OBI_0100058		xenograft	sameAs
+277551	http://purl.obolibrary.org/obo/NCIT_C68767	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/OBI_0600011		acclimatization	sameAs
+277553	http://purl.obolibrary.org/obo/NCIT_C47920	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/OBI_0001173		service	sameAs
+277564	http://purl.obolibrary.org/obo/NCIT_C54625	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/BFO_0000182		history	sameAs
+277579	http://purl.obolibrary.org/obo/NCIT_C15346	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/VO_0000002		vaccination	sameAs
+277589	http://purl.obolibrary.org/obo/NCIT_C25375	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/IAO_0000088		report	sameAs
+277595	http://purl.obolibrary.org/obo/NCIT_C15221	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/OBI_0600052		dialysis	sameAs
+277602	http://purl.obolibrary.org/obo/NCIT_C50753	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/OBI_0302887		staining	sameAs
+277607	http://purl.obolibrary.org/obo/NCIT_C54156	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/OBI_0302910		prediction	sameAs
+277612	http://purl.obolibrary.org/obo/NCIT_C15189	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/OBI_0002650		biopsy	sameAs
+277618	http://purl.obolibrary.org/obo/NCIT_C34072	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/OBI_0302890		polymerization	sameAs
+277621	http://purl.obolibrary.org/obo/NCIT_C15232	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/OBI_0600022		excision	sameAs
+277625	http://purl.obolibrary.org/obo/NCIT_C16237	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/OBI_0302911		validation	sameAs
+277629	http://purl.obolibrary.org/obo/OBI_0002082	https://www.w3.org/2002/07/owl#sameAs	http://www.bioassayontology.org/bao#BAO_0003006	reporter gene assay	reporter gene assay	sameAs
+277632	http://purl.obolibrary.org/obo/OBI_0002964	https://www.w3.org/2002/07/owl#sameAs	http://www.bioassayontology.org/bao#BAO_0002908	KiNativ assay	KiNativ assay	sameAs
+277633	http://purl.obolibrary.org/obo/OBI_0003583	https://www.w3.org/2002/07/owl#sameAs	http://www.bioassayontology.org/bao#BAO_0003009	cell viability assay	cell viability assay	sameAs
+277639	http://purl.obolibrary.org/obo/OBI_0200041	https://www.w3.org/2002/07/owl#sameAs	http://www.bioassayontology.org/bao#BAO_0002344	k-means clustering	k means clustering	sameAs
+277641	http://purl.obolibrary.org/obo/OBI_0000910	https://www.w3.org/2002/07/owl#sameAs	http://www.bioassayontology.org/bao#BAO_0002428	radio immuno assay	radioimmunoassay	sameAs
+277644	http://purl.obolibrary.org/obo/OBI_0001986	https://www.w3.org/2002/07/owl#sameAs	http://www.bioassayontology.org/bao#BAO_0000415	immunohistochemistry	immunohistochemistry	sameAs
+277645	http://purl.obolibrary.org/obo/OBI_0000690	https://www.w3.org/2002/07/owl#sameAs	http://www.bioassayontology.org/bao#BAO_0002508	immunoprecipitation	immunoprecipitation	sameAs
+277649	http://purl.obolibrary.org/obo/OBI_0001148	https://www.w3.org/2002/07/owl#sameAs	http://www.bioassayontology.org/bao#BAO_0002441	gene knock out	gene knockout	sameAs
+277651	http://purl.obolibrary.org/obo/OBI_0400147	https://www.w3.org/2002/07/owl#sameAs	http://www.bioassayontology.org/bao#BAO_0010048	microarray	Microarray	sameAs
+277658	http://purl.obolibrary.org/obo/OBI_0002963	https://www.w3.org/2002/07/owl#sameAs	http://www.bioassayontology.org/bao#BAO_0003011	KINOMEscan assay	KINOMEScan assay	sameAs
+277662	http://purl.obolibrary.org/obo/OBI_0002958	https://www.w3.org/2002/07/owl#sameAs	http://www.bioassayontology.org/bao#BAO_0010028	SWATH-MS protein profiling assay	SWATH MS protein profiling assay	sameAs
+277663	http://purl.obolibrary.org/obo/OBI_0001146	https://www.w3.org/2002/07/owl#sameAs	http://www.bioassayontology.org/bao#BAO_0002989	binding assay	binding assay	sameAs
+277664	http://purl.obolibrary.org/obo/OBI_0003369	https://www.w3.org/2002/07/owl#sameAs	http://www.bioassayontology.org/bao#BAO_0000248	assay kit	assay kit	sameAs
+277667	http://purl.obolibrary.org/obo/OBI_0200080	https://www.w3.org/2002/07/owl#sameAs	http://www.bioassayontology.org/bao#BAO_0002361	network analysis	network analysis	sameAs
+277668	http://purl.obolibrary.org/obo/OBI_0000891	https://www.w3.org/2002/07/owl#sameAs	http://www.bioassayontology.org/bao#BAO_0002805	cell proliferation assay	cell proliferation assay	sameAs
+277670	http://purl.obolibrary.org/obo/OBI_0000716	https://www.w3.org/2002/07/owl#sameAs	http://www.bioassayontology.org/bao#BAO_0010035	ChIP-seq assay	ChIP-seq assay	sameAs
+277680	http://purl.obolibrary.org/obo/OBI_0500016	https://www.w3.org/2002/07/owl#sameAs	http://www.bioassayontology.org/bao#BAO_0002338	fractional factorial design	fractional factorial design	sameAs
+277683	http://purl.obolibrary.org/obo/OBI_0002625	https://www.w3.org/2002/07/owl#sameAs	http://www.bioassayontology.org/bao#BAO_0002433	gene knockdown	gene knockdown	sameAs
+277687	http://purl.obolibrary.org/obo/OBI_0001149	https://www.w3.org/2002/07/owl#sameAs	http://www.bioassayontology.org/bao#BAO_0002432	gene knock in	gene knock in	sameAs
+277691	http://purl.obolibrary.org/obo/OBI_0000748	https://www.w3.org/2002/07/owl#sameAs	http://www.bioassayontology.org/bao#BAO_0010037	bisulfite sequencing assay	Bisulfite Sequencing assay	sameAs
+277693	http://purl.obolibrary.org/obo/OBI_0002567	https://www.w3.org/2002/07/owl#sameAs	http://www.bioassayontology.org/bao#BAO_0002231	sequence alignment	sequence alignment	sameAs
+277701	http://purl.obolibrary.org/obo/OBI_0002119	https://www.w3.org/2002/07/owl#sameAs	http://www.ebi.ac.uk/efo/EFO_0002909	microscopy assay	microscopy assay	sameAs
+277702	http://purl.obolibrary.org/obo/OBI_0002090	https://www.w3.org/2002/07/owl#sameAs	http://www.ebi.ac.uk/efo/EFO_0004182	rapid amplification of cDNA ends	Rapid Amplification of cDNA Ends	sameAs
+277704	http://purl.obolibrary.org/obo/OBI_0003231	https://www.w3.org/2002/07/owl#sameAs	http://www.ebi.ac.uk/efo/EFO_0009126	leukapheresis	leukapheresis	sameAs
+277706	http://purl.obolibrary.org/obo/OBI_2100023	https://www.w3.org/2002/07/owl#sameAs	http://www.ebi.ac.uk/efo/EFO_0001458	protein assay	protein assay	sameAs
+277713	http://purl.obolibrary.org/obo/OBI_0001152	https://www.w3.org/2002/07/owl#sameAs	http://www.ebi.ac.uk/efo/EFO_0000726	transfection	transfection	sameAs
+277719	http://purl.obolibrary.org/obo/OBI_0001148	https://www.w3.org/2002/07/owl#sameAs	http://www.ebi.ac.uk/efo/EFO_0000506	gene knock out	gene knock out	sameAs
+277727	http://purl.obolibrary.org/obo/OBI_0100058	https://www.w3.org/2002/07/owl#sameAs	http://www.ebi.ac.uk/efo/EFO_0003942	xenograft	Xenograft	sameAs
+277737	http://purl.obolibrary.org/obo/OBI_0000721	https://www.w3.org/2002/07/owl#sameAs	http://www.ebi.ac.uk/efo/EFO_0004307	glucose tolerance test	glucose tolerance test	sameAs
+277741	http://purl.obolibrary.org/obo/OBI_0001028	https://www.w3.org/2002/07/owl#sameAs	http://www.ebi.ac.uk/efo/EFO_0000494	feature extraction	feature extraction	sameAs
+277744	http://purl.obolibrary.org/obo/OBI_0001409	https://www.w3.org/2002/07/owl#sameAs	http://www.ebi.ac.uk/efo/EFO_0001744	cell cycle design	cell cycle design	sameAs
+277745	http://purl.obolibrary.org/obo/OBI_0002439	https://www.w3.org/2002/07/owl#sameAs	http://www.ebi.ac.uk/efo/EFO_0007688	chromosome conformation capture assay	chromosome conformation capture assay	sameAs
+277749	http://purl.obolibrary.org/obo/OBI_0001149	https://www.w3.org/2002/07/owl#sameAs	http://www.ebi.ac.uk/efo/EFO_0004963	gene knock in	gene knock in	sameAs
+277752	http://purl.obolibrary.org/obo/OBI_0001504	https://www.w3.org/2002/07/owl#sameAs	http://www.ebi.ac.uk/efo/EFO_0003856	dissection	dissection	sameAs
+277755	http://purl.obolibrary.org/obo/OBI_0002650	https://www.w3.org/2002/07/owl#sameAs	http://www.ebi.ac.uk/efo/EFO_0009120	biopsy	biopsy	sameAs
+277760	http://purl.obolibrary.org/obo/OGMS_0000090	https://www.w3.org/2002/07/owl#sameAs	http://www.ebi.ac.uk/efo/EFO_0000727	treatment	treatment	sameAs
+277774	http://purl.obolibrary.org/obo/VO_0000002	https://www.w3.org/2002/07/owl#sameAs	http://www.ebi.ac.uk/efo/EFO_0004292	vaccination	vaccination	sameAs
+277787	http://purl.obolibrary.org/obo/OBI_0600016	https://www.w3.org/2002/07/owl#sameAs	http://www.ebi.ac.uk/efo/EFO_0000663	pooling specimens	pool	sameAs
+277788	http://purl.obolibrary.org/obo/OBI_0001332	https://www.w3.org/2002/07/owl#sameAs	http://www.ebi.ac.uk/efo/EFO_0002759	DNA methylation profiling by array assay	methylation profiling by array	sameAs
+277789	http://purl.obolibrary.org/obo/OBI_0100055	https://www.w3.org/2002/07/owl#sameAs	http://www.ebi.ac.uk/efo/EFO_0001746	obsolete_cell line cell	development or differentiation design	sameAs
+277791	http://purl.obolibrary.org/obo/OBI_0001419	https://www.w3.org/2002/07/owl#sameAs	http://www.ebi.ac.uk/efo/EFO_0002762	ChIP-chip by tiling array assay	ChIP-chip by tiling array	sameAs
+277793	http://purl.obolibrary.org/obo/OBI_0001328	https://www.w3.org/2002/07/owl#sameAs	http://www.ebi.ac.uk/efo/EFO_0001746	organism development design	development or differentiation design	sameAs
+277797	http://purl.obolibrary.org/obo/OBI_0000690	https://www.w3.org/2002/07/owl#sameAs	http://www.ebi.ac.uk/efo/EFO_0000541	immunoprecipitation	immunoprecipitate	sameAs
+277802	http://purl.obolibrary.org/obo/OBI_0001235	https://www.w3.org/2002/07/owl#sameAs	http://www.ebi.ac.uk/efo/EFO_0002769	transcription profiling by tiling array assay	transcription profiling by tiling array	sameAs
+277805	http://purl.obolibrary.org/obo/OBI_0001221	https://www.w3.org/2002/07/owl#sameAs	http://www.ebi.ac.uk/efo/EFO_0002764	ChIP-chip by SNP array assay	ChIP-chip by SNP array	sameAs
+277806	http://purl.obolibrary.org/obo/OBI_0001247	https://www.w3.org/2002/07/owl#sameAs	http://www.ebi.ac.uk/efo/EFO_0002771	genotyping by high throughput sequencing assay	genotyping by high throughput sequencing	sameAs
+277807	http://purl.obolibrary.org/obo/OBI_0400147	https://www.w3.org/2002/07/owl#sameAs	http://www.ebi.ac.uk/efo/EFO_0002698	microarray	array	sameAs
+277809	http://purl.obolibrary.org/obo/OBI_0400148	https://www.w3.org/2002/07/owl#sameAs	http://www.ebi.ac.uk/efo/EFO_0002701	DNA microarray	DNA array	sameAs
+277810	http://purl.obolibrary.org/obo/OBI_0000366	https://www.w3.org/2002/07/owl#sameAs	http://www.ebi.ac.uk/efo/EFO_0000752	metabolite profiling assay	metabolomic profiling	sameAs
+277811	http://purl.obolibrary.org/obo/OBI_0001409	https://www.w3.org/2002/07/owl#sameAs	http://www.ebi.ac.uk/efo/EFO_0001746	cell cycle design	development or differentiation design	sameAs
+277813	http://purl.obolibrary.org/obo/OBI_0600047	https://www.w3.org/2002/07/owl#sameAs	http://www.ebi.ac.uk/efo/EFO_0003740	sequencing assay	assay by sequencer	sameAs
+277815	http://purl.obolibrary.org/obo/OBI_0001200	https://www.w3.org/2002/07/owl#sameAs	http://www.ebi.ac.uk/efo/EFO_0002771	genotyping by high throughput sequencing design	genotyping by high throughput sequencing	sameAs
+277819	http://purl.obolibrary.org/obo/OBI_0000626	https://www.w3.org/2002/07/owl#sameAs	http://www.ebi.ac.uk/efo/EFO_0002693	DNA sequencing assay	DNA-seq	sameAs
+277821	http://purl.obolibrary.org/obo/OBI_0000716	https://www.w3.org/2002/07/owl#sameAs	http://www.ebi.ac.uk/efo/EFO_0002692	ChIP-seq assay	ChIP-seq	sameAs
+277825	http://purl.obolibrary.org/obo/OBI_0000043	https://www.w3.org/2002/07/owl#sameAs	http://www.ebi.ac.uk/efo/EFO_0003942	xenotransplantation	Xenograft	sameAs
+277826	http://purl.obolibrary.org/obo/OBI_0001304	https://www.w3.org/2002/07/owl#sameAs	http://www.ebi.ac.uk/efo/EFO_0001030	RNAi profiling by array assay	RNAi profiling by array	sameAs
+277829	http://purl.obolibrary.org/obo/OBI_0001271	https://www.w3.org/2002/07/owl#sameAs	http://www.ebi.ac.uk/efo/EFO_0002770	RNA-seq assay	transcription profiling by high throughput sequencing	sameAs
+277831	http://purl.obolibrary.org/obo/OBI_0400149	https://www.w3.org/2002/07/owl#sameAs	http://www.ebi.ac.uk/efo/EFO_0002702	protein microarray	protein array	sameAs
+277833	http://purl.obolibrary.org/obo/OBI_0600038	https://www.w3.org/2002/07/owl#sameAs	http://www.ebi.ac.uk/efo/EFO_0000562	addition of molecular label	labelling	sameAs
+277834	http://purl.obolibrary.org/obo/OBI_0001463	https://www.w3.org/2002/07/owl#sameAs	http://www.ebi.ac.uk/efo/EFO_0002768	transcription profiling by array assay	transcription profiling by array	sameAs
+277837	http://purl.obolibrary.org/obo/OBI_0000424	https://www.w3.org/2002/07/owl#sameAs	http://www.ebi.ac.uk/efo/EFO_0001032	transcription profiling assay	transcription profiling	sameAs
+277842	http://purl.obolibrary.org/obo/OBI_0001335	https://www.w3.org/2002/07/owl#sameAs	http://www.ebi.ac.uk/efo/EFO_0000753	microRNA profiling by array assay	microRNA profiling by array	sameAs
+277843	http://purl.obolibrary.org/obo/OBI_0000470	https://www.w3.org/2002/07/owl#sameAs	http://www.ebi.ac.uk/efo/EFO_0002774	mass spectrometry assay	assay by mass spectrometry	sameAs
+277845	http://purl.obolibrary.org/obo/OGMS_0000090	https://www.w3.org/2002/07/owl#sameAs	http://www.ebi.ac.uk/efo/EFO_0001787	treatment	translational bias design	sameAs
+277846	http://purl.obolibrary.org/obo/OBI_0001307	https://www.w3.org/2002/07/owl#sameAs	http://www.ebi.ac.uk/efo/EFO_0002704	tiling microarray	tiling array	sameAs
+277848	http://purl.obolibrary.org/obo/OBI_0001204	https://www.w3.org/2002/07/owl#sameAs	http://www.ebi.ac.uk/efo/EFO_0002703	SNP microarray	SNP array	sameAs
+277851	http://purl.obolibrary.org/obo/OBI_0001248	https://www.w3.org/2002/07/owl#sameAs	http://www.ebi.ac.uk/efo/EFO_0002760	ChIP-chip assay	ChIP-chip by array	sameAs
+277853	http://purl.obolibrary.org/obo/OBI_0001266	https://www.w3.org/2002/07/owl#sameAs	http://www.ebi.ac.uk/efo/EFO_0002761	DNA methylation profiling by high throughput sequencing assay	methylation profiling by high throughput sequencing	sameAs
+277855	http://purl.obolibrary.org/obo/OBI_0001282	https://www.w3.org/2002/07/owl#sameAs	http://www.ebi.ac.uk/efo/EFO_0001033	translation profiling assay	translation profiling	sameAs
+277859	http://purl.obolibrary.org/obo/OBI_0000891	https://www.w3.org/2002/07/owl#sameAs	http://www.ebi.ac.uk/efo/EFO_0001746	cell proliferation assay	development or differentiation design	sameAs
+277861	http://purl.obolibrary.org/obo/OBI_0302889	https://www.w3.org/2002/07/owl#sameAs	http://www.ebi.ac.uk/efo/EFO_0000554	planned irradiation	irradiate	sameAs
+277862	http://purl.obolibrary.org/obo/OBI_0000943	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/NCIT_C73482	chemical cleavage		sameAs
+277863	http://purl.obolibrary.org/obo/OBI_0002654	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/NCIT_C15190	needle biopsy		sameAs
+277866	http://purl.obolibrary.org/obo/OBI_0000105	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/NCIT_C15342	transplantation		sameAs
+277868	http://purl.obolibrary.org/obo/OBI_0400149	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/NCIT_C25867	protein microarray		sameAs
+277872	http://purl.obolibrary.org/obo/IAO_0000310	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/NCIT_C19498	document		sameAs
+277900	http://purl.obolibrary.org/obo/OBI_0302895	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/NCIT_C50544	electrocution		sameAs
+277918	http://purl.obolibrary.org/obo/OBI_0400147	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/NCIT_C44282	microarray		sameAs
+277923	http://purl.obolibrary.org/obo/OBI_0001000	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/NCIT_C17048	questionnaire		sameAs
+277926	http://purl.obolibrary.org/obo/OBI_0100058	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/NCIT_C12932	xenograft		sameAs
+277937	http://purl.obolibrary.org/obo/OBI_0600011	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/NCIT_C68767	acclimatization		sameAs
+277939	http://purl.obolibrary.org/obo/OBI_0001173	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/NCIT_C47920	service		sameAs
+277950	http://purl.obolibrary.org/obo/BFO_0000182	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/NCIT_C54625	history		sameAs
+277965	http://purl.obolibrary.org/obo/VO_0000002	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/NCIT_C15346	vaccination		sameAs
+277975	http://purl.obolibrary.org/obo/IAO_0000088	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/NCIT_C25375	report		sameAs
+277981	http://purl.obolibrary.org/obo/OBI_0600052	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/NCIT_C15221	dialysis		sameAs
+277988	http://purl.obolibrary.org/obo/OBI_0302887	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/NCIT_C50753	staining		sameAs
+277993	http://purl.obolibrary.org/obo/OBI_0302910	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/NCIT_C54156	prediction		sameAs
+277998	http://purl.obolibrary.org/obo/OBI_0002650	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/NCIT_C15189	biopsy		sameAs
+278004	http://purl.obolibrary.org/obo/OBI_0302890	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/NCIT_C34072	polymerization		sameAs
+278007	http://purl.obolibrary.org/obo/OBI_0600022	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/NCIT_C15232	excision		sameAs
+278011	http://purl.obolibrary.org/obo/OBI_0302911	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/NCIT_C16237	validation		sameAs
+278015	http://purl.obolibrary.org/obo/OBI_0000860	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/MMO_0000647	northern blot assay	Northern blot assay	sameAs
+278016	http://purl.obolibrary.org/obo/OBI_0000854	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/MMO_0000669	western blot assay	western blot assay	sameAs
+278017	http://purl.obolibrary.org/obo/OBI_0002029	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/MMO_0000660	serial analysis of gene expression assay	serial analysis of gene expression assay	sameAs
+278018	http://purl.obolibrary.org/obo/OBI_0001271	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/MMO_0000659	RNA-seq assay	RNA-seq assay	sameAs
+278019	http://purl.obolibrary.org/obo/OBI_0000910	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/MMO_0000073	radio immuno assay	radioimmunoassay	sameAs
+278020	http://purl.obolibrary.org/obo/OBI_0000661	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/MMO_0000075	ELISA	enzyme linked immunosorbent assay	sameAs
+278021	http://purl.obolibrary.org/obo/OBI_0000661	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/MMO_0000075	enzyme-linked immunosorbent assay	enzyme linked immunosorbent assay	sameAs
+278022	http://purl.obolibrary.org/obo/OBI_0001986	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/MMO_0000498	immunohistochemistry	immunohistochemistry	sameAs
+278023	http://purl.obolibrary.org/obo/OBI_00001975	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/MMO_0000680	chromatin immunoprecipitation	chromatin immunoprecipitation	sameAs
+278024	http://purl.obolibrary.org/obo/OBI_0200199	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/MMO_0000536	gas chromatography mass spectrometry	gas chromatography-mass spectrometry	sameAs
+278025	http://purl.obolibrary.org/obo/OBI_0000690	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/MMO_0000682	immunoprecipitation	immunoprecipitation	sameAs
+278026	http://purl.obolibrary.org/obo/OBI_0002692	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/MMO_0000459	polymerase chain reaction assay	polymerase chain reaction assay	sameAs
+278027	http://purl.obolibrary.org/obo/OBI_0000891	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/MMO_0000503	cell proliferation assay	cell proliferation assay	sameAs
+278028	http://purl.obolibrary.org/obo/OBI_0600053	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/MMO_0000287	electrophoresis	electrophoresis	sameAs
+278029	http://purl.obolibrary.org/obo/OBI_0000893	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/MMO_0000460	real time polymerase chain reaction assay	real-time polymerase chain reaction assay	sameAs
+278030	http://purl.obolibrary.org/obo/OBI_0001170	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/MMO_0000655	reverse transcription polymerase chain reaction assay	reverse transcription polymerase chain reaction assay	sameAs
+278032	http://purl.obolibrary.org/obo/OBI_0302886	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/MMO_0000712	centrifugation	centrifugation	sameAs
+278033	http://purl.obolibrary.org/obo/OBI_0302905	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/CHMO_0002742	elution	elution	sameAs
+278035	http://purl.obolibrary.org/obo/OBI_0302884	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/CHMO_0001577	extraction	extraction	sameAs
+278045	http://purl.obolibrary.org/obo/OBI_00001975	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/CHMO_0001694	chromatin immunoprecipitation	chromatin immunoprecipitation	sameAs
+278046	http://purl.obolibrary.org/obo/OBI_0200199	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/CHMO_0000497	gas chromatography mass spectrometry	gas chromatography-mass spectrometry	sameAs
+278047	http://purl.obolibrary.org/obo/OBI_0003547	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/CHMO_0001004	liquid chromatography	liquid chromatography	sameAs
+278048	http://purl.obolibrary.org/obo/OBI_0000690	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/CHMO_0001691	immunoprecipitation	immunoprecipitation	sameAs
+278050	http://purl.obolibrary.org/obo/OBI_0600034	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/CHMO_0001688	precipitation	precipitation	sameAs
+278051	http://purl.obolibrary.org/obo/OBI_0600010	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/CHMO_0002831	material acquisition	material acquisition	sameAs
+278053	http://purl.obolibrary.org/obo/OBI_0302885	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/CHMO_0001640	filtration	filtration	sameAs
+278058	http://purl.obolibrary.org/obo/OBI_0001505	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/CHMO_0002231	purification	purification	sameAs
+278061	http://purl.obolibrary.org/obo/OBI_0600053	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/CHMO_0001019	electrophoresis	electrophoresis	sameAs
+278065	http://purl.obolibrary.org/obo/OBI_0600052	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/CHMO_0001522	dialysis	dialysis	sameAs
+278069	http://purl.obolibrary.org/obo/OBI_0001504	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/CHMO_0001528	dissection	dissection	sameAs
+278071	http://purl.obolibrary.org/obo/SO_0001248	https://www.w3.org/2002/07/owl#sameAs	http://purl.obolibrary.org/obo/CHMO_0001302	assembly	assembly	sameAs
