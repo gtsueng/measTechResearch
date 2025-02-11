@@ -1,0 +1,33 @@
+	measname	counts
+0	ATAC-seq epigenetic profiling assay	4
+1	Aggregated small molecule biochemical target activity	1
+2	Bead-based immunoassay for protein state	3
+3	ELISA protein secretion profiling assay	3
+4	ELISA protein state assay	2
+5	Fluorescence imaging apoptosis assay	6
+6	Fluorescence imaging apoptosis assay,Fluorescence imaging cell cycle state assay	1
+7	Fluorescence imaging apoptosis assay,RPPA protein state assay	3
+8	Fluorescence imaging cell count assay	25
+9	Fluorescence imaging cell cycle state assay	1
+10	Fluorescence imaging cell growth inhibition assay	24
+11	Fluorescence imaging cell viability assay	35
+12	Fluorescence imaging drug synergy assay	1
+13	Fluorescence imaging morphology assay	8
+14	Fluorescence imaging multiplex cytological profiling assay	4
+15	Fluorescence imaging protein state assay	18
+16	Fluorescence imaging reporter gene assay	1
+17	Global chromatin epigenetic profiling assay	4
+18	KINOMEscan kinase-small molecule binding assay	180
+19	KiNativ kinase-small molecule binding assay	29
+20	L1000 mRNA profiling assay	11
+21	MEMA cell growth assay	26
+22	MS protein state assay	1
+23	Microwestern meso-scale quantitative western blotting assay	3
+24	P100 phosphoprotein quantification assay	3
+25	Positive/negative ion switching metabolomics	1
+26	Quantitative Real-Time PCR (qPCR)	1
+27	RNA-seq gene expression profiling assay	8
+28	RPPA protein state assay	2
+29	SWATH-MS protein quantification assay	3
+30	Tandem Mass Tag (TMT) Mass Spectrometry	4
+31	To Be Classified	4
