@@ -1,0 +1,82 @@
+	measurementTechnique	Counts
+5	Case-Control	613
+3	Case Set	550
+10	Cohort	486
+32	Longitudinal	236
+61	RNA Sequencing	188
+9	Clinical Trial	140
+21	Exome Sequencing	136
+23	Family	133
+76	Tumor vs. Matched-Normal	124
+50	Parent-Offspring Trios	115
+78	Whole Genome Sequencing	89
+69	Single Cell Analysis	86
+33	Longitudinal Cohort	86
+67	Sequencing	81
+47	Observational	71
+16	Cross-Sectional	70
+13	Control Set	66
+59	Prospective	65
+74	Transcriptome Sequencing	60
+30	Individual-Level Genomic Data	60
+75	Tumor	59
+20	Epigenetics	58
+6	Clinical Cohort	52
+73	Transcriptome Analysis	50
+11	Collection	37
+27	Genotype	37
+31	Interventional	34
+25	Full Transcriptome Sequencing	32
+38	Methods Development	31
+28	Genotype/Expression	29
+26	GWAS	27
+48	Parent-Offspring	25
+43	Multicenter	24
+4	Case-Cohort	24
+55	Population	24
+62	Randomized	23
+79	Xenograft	22
+15	Copy Number Variation (CNV)	22
+58	Probands	20
+35	Mendelian	18
+63	Randomized Controlled Clinical Trial	18
+45	Nested Case-Control	18
+80	eQTL	17
+37	Metastasis	16
+72	Tissue Expression	16
+0	Affected Sib Pairs	14
+44	Multiplex Families	13
+8	Clinical Genetic Testing	13
+34	Marker Discovery	13
+17	Double-Blind	12
+56	Population Genomics	11
+71	Stem Cell Lines	11
+22	Extended Pedigrees	11
+64	Reference Set	10
+77	Twin	10
+54	Placebo-Controlled	10
+1	Aggregate Genomic Data	10
+40	Mixed	9
+14	Controlled Trial	9
+49	Parent-Offspring Quads	8
+7	Clinical Diagnostic Testing	8
+36	Meta-Analysis	7
+70	Single Patient	7
+29	Genotype/Expression array	7
+52	Pedigree Whole Genome Sequencing	6
+65	Repository	6
+68	Sibling Cohort	5
+46	Nuclear Families	5
+53	Phase III	5
+42	Mother-Child Pairs	5
+19	Electronic Medical Records	4
+41	Monozygotic Twins	4
+18	Dyads	3
+24	Family Linkage	3
+66	Resequencing	2
+39	Methylation Sequencing	2
+57	Population-Based Control Set	2
+12	Community	2
+60	Quantitative Cross-Sectional	1
+51	Partial Factorial Randomized	1
+2	Array Comparative Genomic Hybridization	1

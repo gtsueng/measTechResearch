@@ -1,0 +1,9 @@
+	_id	measurementTechniqueIRIs
+0	accessclinicaldata_nct04640168	['http://purl.obolibrary.org/obo/NCIT_C82639', 'http://purl.obolibrary.org/obo/NCIT_C15417', 'http://purl.obolibrary.org/obo/NCIT_C49659']
+1	accessclinicaldata_sdy1760	['http://purl.obolibrary.org/obo/NCIT_C53308']
+2	accessclinicaldata_nct00811954	['http://purl.obolibrary.org/obo/NCIT_C82639', 'http://purl.obolibrary.org/obo/NCIT_C15417', 'http://purl.obolibrary.org/obo/NCIT_C49659']
+3	accessclinicaldata_nct04401579	['http://purl.obolibrary.org/obo/NCIT_C82639', 'http://purl.obolibrary.org/obo/NCIT_C15417', 'http://purl.obolibrary.org/obo/NCIT_C49659']
+4	accessclinicaldata_nct04593940	['http://purl.obolibrary.org/obo/NCIT_C82639', 'http://purl.obolibrary.org/obo/NCIT_C15417', 'http://purl.obolibrary.org/obo/NCIT_C49659']
+5	accessclinicaldata_actt	['http://purl.obolibrary.org/obo/NCIT_C82639', 'http://purl.obolibrary.org/obo/NCIT_C15417', 'http://purl.obolibrary.org/obo/NCIT_C49659']
+6	accessclinicaldata_nct04492475	['http://purl.obolibrary.org/obo/NCIT_C82639', 'http://purl.obolibrary.org/obo/NCIT_C15417', 'http://purl.obolibrary.org/obo/NCIT_C49659']
+7	accessclinicaldata_nct04518410	['http://purl.obolibrary.org/obo/NCIT_C82639', 'http://purl.obolibrary.org/obo/NCIT_C15417', 'http://purl.obolibrary.org/obo/NCIT_C49659']

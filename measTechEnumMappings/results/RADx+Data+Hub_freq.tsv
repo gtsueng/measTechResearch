@@ -1,0 +1,55 @@
+	measname	counts
+0	Antibody or Adaptive Immune Response Testing	4
+1	Antigen Testing Device	35
+2	Behavioral	79
+3	Biobank Samples	3
+4	Biological Specimens	9
+5	Biosensor	13
+6	Breath Analysis or Airborne Detection Device	7
+7	Case-Control	12
+8	Chemosensor	5
+9	Chemosensory Testing Device	4
+10	Clinical	72
+11	Cognitive	8
+12	Contact Tracing	9
+13	Cross-Sectional	14
+14	Device Validation	15
+15	Device Verification	7
+16	Disease Registry	1
+17	Electrochemical Testing Device	2
+18	Electronic Medical Records	33
+19	Environmental	12
+20	Family History	17
+21	Genomic	8
+22	Genotyping	2
+23	Geospatial	1
+24	Imaging	7
+25	Immunological	33
+26	Individual Genotype	1
+27	Individual Phenotype	10
+28	Individual Sequencing	4
+29	Interventional or Clinical Trial	20
+30	Interview or Focus Group	52
+31	Longitudinal Cohort	99
+32	Metabolomic	3
+33	Metagenomic	3
+34	Microscopy	1
+35	Mixed Methods	5
+36	Mobile	2
+37	Molecular Nucleic Acid or PCR Testing Device	38
+38	Observational	4
+39	Open Cohort	1
+40	Physical Activity	7
+41	Psychological	22
+42	Questionnaire or Survey	143
+43	Real-World Data	2
+44	Sequencing	4
+45	Smartphone	16
+46	Social	52
+47	Supporting Documents	5
+48	Survey	124
+49	Temporal	1
+50	Time-Series	1
+51	Unspecified COVID Testing Device	8
+52	Wastewater Sampling	6
+53	Wearable	7
