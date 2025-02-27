@@ -1,0 +1,5 @@
+	repo_name	total	with_nctid	with_measTech	without_measTech	no_measTech_has_nctid
+0	Vivli	7725	5921	0	7725	5921
+1	AccessClinicalData%40NIAID	10	8	0	10	8
+2	RADx+Data+Hub	178	0	178	0	0
+3	The+Database+of+Genotypes+and+Phenotypes	2523	0	2509	14	0
