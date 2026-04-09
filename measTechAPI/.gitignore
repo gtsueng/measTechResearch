@@ -1,0 +1,42 @@
+﻿# Runtime artifacts
+logs/
+hubdb/
+
+# Hub run/archive transient state
+data_archive/run/
+
+# Staged source payloads (rebuild with stage_*.py scripts)
+data_archive/*/current/
+
+# Local planning / docs with environment-specific paths
+plan.txt
+Run_BioThings_Local_Merged_Index.ipynb
+
+# Python cache
+__pycache__/
+plugins/**/__pycache__/
+
+# Local secret startup config
+secret_config.local.txt
+secret_config*.txt
+.env
+.env.*
+*.local
+*.local.txt
+*.secret
+*.secrets
+*.key
+*.pem
+*.p12
+
+# Local WSL virtual environment
+.venv/
+
+# Local hub SSH host key
+bin/ssh_host_key*
+
+# Additional local runtime outputs
+data_archive/
+diff/
+release/
+bin/

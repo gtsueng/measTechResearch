@@ -1,0 +1,1 @@
+﻿"""MMO data plugin package."""

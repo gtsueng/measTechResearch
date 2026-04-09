@@ -1,0 +1,14 @@
+﻿biothings==0.12.3
+pymongo==4.16.0
+elasticsearch==7.17.13
+aiocron==2.1
+asyncssh==2.22.0
+dill>=0.3.8
+psutil>=5.9
+typer<0.10
+click<8.2
+boto3>=1.34
+requests>=2.31
+requests-aws4auth>=1.2.3
+ipython>=8,<9
+sockjs-tornado>=1.0.7
